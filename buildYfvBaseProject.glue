@@ -30,22 +30,22 @@ project yfv
   run file glue/yfvUnconstrainedAlignments.glue
 
   # Define alignment tree
-  run file glue/yfvAlignmentTree.glue
+  #run file glue/yfvAlignmentTree.glue
 
   # Define features
   run file glue/yfvFeatures.glue
   
   # Define feature locations on master references
-  run file glue/yfvExplicitFeatureLocations.glue
+  #run file glue/yfvExplicitFeatureLocations.glue
   
   # inherit feature locations across other references
-  run script glue/yfvRefseqsInheritFeatureLocations.js
-  run script glue/yfvValidateRefseqFeatureLocations.js
+  #run script glue/yfvRefseqsInheritFeatureLocations.js
+  #run script glue/yfvValidateRefseqFeatureLocations.js
 
   # import the reference phylogeny into the alignment tree
-  run file glue/yfvImportPhylogenies.glue
+  #run file glue/yfvImportPhylogenies.glue
   
   # Validate
   validate
 
-exit
+  exit

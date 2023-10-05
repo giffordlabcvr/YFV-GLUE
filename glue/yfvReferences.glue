@@ -15,7 +15,7 @@ create reference  REF_JF912186_H_MG_Brazil_1994   ncbi-refseqs JF912186
 
 # South America II
 
-create reference  REF_TVP17388_H_Bolivia_1999     ncbi-refseqs TVP17388 
+create reference  REF_OR119828_H_Bolivia_1999     ncbi-refseqs OR119828 
 create reference  REF_JF912181_H_RO_Brazil_1983   ncbi-refseqs JF912181 
 
 # West African
@@ -34,9 +34,9 @@ create reference  REF_JX898870_M_Senegal_1996     ncbi-refseqs JX898870
 create reference  REF_JX898876_M_Senegal_2001     ncbi-refseqs JX898876 
 create reference  REF_JX898878_M_Senegal_2005     ncbi-refseqs JX898878 
 create reference  REF_JX898880_M_Senegal_2005     ncbi-refseqs JX898880 
-create reference  REF_X898877_M_Senegal_2005      ncbi-refseqs X898877 
+create reference  REF_JX898877_M_Senegal_2005     ncbi-refseqs JX898877 
 create reference  REF_JX898869_M_Ivory_Coast_1973 ncbi-refseqs JX898869 
-create reference  REF_YFU54798_H_Ivory_Coast_1982 ncbi-refseqs YFU54798 
+create reference  REF_U54798_H_Ivory_Coast_1982   ncbi-refseqs U54798 
 
 # East African
 
