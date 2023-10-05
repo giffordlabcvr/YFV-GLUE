@@ -1,0 +1,7 @@
+# Basic modules
+create module --fileName modules/yfvGenbankXmlPopulator.xml
+create module --fileName modules/unconstrainedAlignmentImporter.xml
+
+create module -f modules/yfvTabularUtility.xml
+create module -f modules/yfvSideDataImporter.xml
+

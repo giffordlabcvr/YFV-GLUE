@@ -1,0 +1,47 @@
+#### Dengue serotype master reference sequences
+
+# South America I
+
+create reference  REF_JF912190_H_RR_Brazil_2002   ncbi-refseqs JF912190 
+create reference  REF_JF912187_H_GO_Brazil_2000   ncbi-refseqs JF912187 
+create reference  REF_JF912189_M_RS_Brazil_2001   ncbi-refseqs JF912190 
+create reference  REF_JF912180_H_PA_Brazil_1981   ncbi-refseqs JF912180 
+create reference  REF_JF912182_H_PA_Brazil_1984   ncbi-refseqs JF912182 
+create reference  REF_JF912185_M_MS_Brazil_1992   ncbi-refseqs JF912185 
+create reference  REF_JF912179_M_GO_Brazil_1980   ncbi-refseqs JF912179 
+create reference  REF_JF912184_H_PA_Brazil_1987   ncbi-refseqs JF912184 
+create reference  REF_JF912183_H_PA_Brazil_1984   ncbi-refseqs JF912183 
+create reference  REF_JF912186_H_MG_Brazil_1994   ncbi-refseqs JF912186 
+
+# South America II
+
+create reference  REF_TVP17388_H_Bolivia_1999     ncbi-refseqs TVP17388 
+create reference  REF_JF912181_H_RO_Brazil_1983   ncbi-refseqs JF912181 
+
+# West African
+
+create reference  REF_AF094612_Trinidad_1979      ncbi-refseqs AF094612 
+create reference  REF_JX898871_M_Senegal_1995     ncbi-refseqs JX898871 
+create reference  REF_JX898872_M_Senegal_1995     ncbi-refseqs JX898872 
+create reference  REF_AY640589_H_Ghana_1927       ncbi-refseqs AY640589 
+create reference  REF_JX898875_M_Senegal_2000     ncbi-refseqs JX898875 
+create reference  REF_JX898874_M_Senegal_2000     ncbi-refseqs JX898874 
+create reference  REF_JX898873_M_Senegal_2000     ncbi-refseqs JX898873 
+create reference  REF_AY572535_H_Gambia_2001      ncbi-refseqs AY572535 
+create reference  REF_AY603338_H_Ivory_Coast_1999 ncbi-refseqs AY603338 
+create reference  REF_JX898868_H_Senegal_1995     ncbi-refseqs JX898868 
+create reference  REF_JX898870_M_Senegal_1996     ncbi-refseqs JX898870 
+create reference  REF_JX898876_M_Senegal_2001     ncbi-refseqs JX898876 
+create reference  REF_JX898878_M_Senegal_2005     ncbi-refseqs JX898878 
+create reference  REF_JX898880_M_Senegal_2005     ncbi-refseqs JX898880 
+create reference  REF_X898877_M_Senegal_2005      ncbi-refseqs X898877 
+create reference  REF_JX898869_M_Ivory_Coast_1973 ncbi-refseqs JX898869 
+create reference  REF_YFU54798_H_Ivory_Coast_1982 ncbi-refseqs YFU54798 
+
+# East African
+
+create reference  REF_AY968064_H_Angola_1971      ncbi-refseqs AY968064 
+create reference  REF_AY968065_H_Uganda_1948      ncbi-refseqs AY968065 
+create reference  REF_DQ235229_H_Ethiopia_1961    ncbi-refseqs DQ235229 
+create reference  REF_JN620362_H_Uganda_2010      ncbi-refseqs JN620362 
+
