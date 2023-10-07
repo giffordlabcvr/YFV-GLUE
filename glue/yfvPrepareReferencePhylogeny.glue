@@ -1,21 +1,20 @@
-  delete module denguePhyloUtility
-  delete module dengueFigTreeAnnotationExporter
+  delete module yfvPhyloUtility
+  delete module yfvFigTreeAnnotationExporter
 
-  create module -f modules/dengueFigTreeAnnotationExporter.xml
-  create module -f modules/denguePhyloUtility.xml
+  create module -f modules/yfvFigTreeAnnotationExporter.xml
+  create module -f modules/yfvPhyloUtility.xml
 
-  module dengueFigTreeAnnotationExporter 
-    export figtree-annotation AL_UNC_DENV_ROOT \
-      
-      -f trees/dengueReferenceFigtreeAnnotations.txt
+  module yfvFigTreeAnnotationExporter 
+    export figtree-annotation AL_UNC_YFV_ROOT \
+    -f trees/yfvReferenceFigtreeAnnotations.tsv
     exit
     
-  module denguePhyloUtility 
+  module yfvPhyloUtility 
 	# midpoint rooting
 	reroot-phylogeny \
-      --inputFile trees/dengueReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
+      --inputFile trees/yfvReferencePhylogeny.tree NEWICK_BOOTSTRAPS \
       --midpoint \
-      --outputFile trees/dengueReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
+      --outputFile trees/yfvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS
       
     exit
     

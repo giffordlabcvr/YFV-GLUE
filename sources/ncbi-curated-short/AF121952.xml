@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GBSeq>
+
+    <GBSeq_locus>AF121952</GBSeq_locus>
+    <GBSeq_length>546</GBSeq_length>
+    <GBSeq_strandedness>single</GBSeq_strandedness>
+    <GBSeq_moltype>RNA</GBSeq_moltype>
+    <GBSeq_topology>linear</GBSeq_topology>
+    <GBSeq_division>VRL</GBSeq_division>
+    <GBSeq_update-date>26-JUL-2016</GBSeq_update-date>
+    <GBSeq_create-date>23-JUN-1999</GBSeq_create-date>
+    <GBSeq_definition>Yellow fever virus NS5 gene, partial cds</GBSeq_definition>
+    <GBSeq_primary-accession>AF121952</GBSeq_primary-accession>
+    <GBSeq_accession-version>AF121952.1</GBSeq_accession-version>
+    <GBSeq_other-seqids>
+      <GBSeqid>gb|AF121952.1|</GBSeqid>
+      <GBSeqid>gi|5305693</GBSeqid>
+    </GBSeq_other-seqids>
+    <GBSeq_source>Yellow fever virus (YFV)</GBSeq_source>
+    <GBSeq_organism>Yellow fever virus</GBSeq_organism>
+    <GBSeq_taxonomy>Viruses; Riboviria; Orthornavirae; Kitrinoviricota; Flasuviricetes; Amarillovirales; Flaviviridae; Orthoflavivirus; Orthoflavivirus flavi</GBSeq_taxonomy>
+    <GBSeq_references>
+      <GBReference>
+        <GBReference_reference>1</GBReference_reference>
+        <GBReference_position>1..546</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Heraud,J.M.</GBAuthor>
+          <GBAuthor>Hommel,D.</GBAuthor>
+          <GBAuthor>Hulin,A.</GBAuthor>
+          <GBAuthor>Deubel,V.</GBAuthor>
+          <GBAuthor>Poveda,J.D.</GBAuthor>
+          <GBAuthor>Sarthou,J.L.</GBAuthor>
+          <GBAuthor>Talarmin,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>First case of yellow fever in French Guiana since 1902</GBReference_title>
+        <GBReference_journal>Emerging Infect. Dis. 5 (3), 429-432 (1999)</GBReference_journal>
+        <GBReference_pubmed>10341180</GBReference_pubmed>
+      </GBReference>
+      <GBReference>
+        <GBReference_reference>2</GBReference_reference>
+        <GBReference_position>1..546</GBReference_position>
+        <GBReference_authors>
+          <GBAuthor>Heraud,J.M.</GBAuthor>
+          <GBAuthor>Hommel,D.</GBAuthor>
+          <GBAuthor>Hulin,A.</GBAuthor>
+          <GBAuthor>Deubel,V.</GBAuthor>
+          <GBAuthor>Sarthou,J.L.</GBAuthor>
+          <GBAuthor>Talarmin,A.</GBAuthor>
+        </GBReference_authors>
+        <GBReference_title>Direct Submission</GBReference_title>
+        <GBReference_journal>Submitted (21-JAN-1999) Virology, Institut Pasteur de la Guyane, Avenue Pasteur, Cayenne 97306, French Guiana</GBReference_journal>
+      </GBReference>
+    </GBSeq_references>
+    <GBSeq_feature-table>
+      <GBFeature>
+        <GBFeature_key>source</GBFeature_key>
+        <GBFeature_location>1..546</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>546</GBInterval_to>
+            <GBInterval_accession>AF121952.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>organism</GBQualifier_name>
+            <GBQualifier_value>Yellow fever virus</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>mol_type</GBQualifier_name>
+            <GBQualifier_value>genomic RNA</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>strain</GBQualifier_name>
+            <GBQualifier_value>French Guiana/98</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>db_xref</GBQualifier_name>
+            <GBQualifier_value>taxon:11089</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>country</GBQualifier_name>
+            <GBQualifier_value>French Guiana:Aloike</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>note</GBQualifier_name>
+            <GBQualifier_value>virus detected from the post-mortem liver biopsies of an Amerindian woman</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+      <GBFeature>
+        <GBFeature_key>CDS</GBFeature_key>
+        <GBFeature_location>&lt;1..240</GBFeature_location>
+        <GBFeature_intervals>
+          <GBInterval>
+            <GBInterval_from>1</GBInterval_from>
+            <GBInterval_to>240</GBInterval_to>
+            <GBInterval_accession>AF121952.1</GBInterval_accession>
+          </GBInterval>
+        </GBFeature_intervals>
+        <GBFeature_partial5 value="true"/>
+        <GBFeature_quals>
+          <GBQualifier>
+            <GBQualifier_name>codon_start</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>transl_table</GBQualifier_name>
+            <GBQualifier_value>1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>product</GBQualifier_name>
+            <GBQualifier_value>NS5</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>protein_id</GBQualifier_name>
+            <GBQualifier_value>AAD41776.1</GBQualifier_value>
+          </GBQualifier>
+          <GBQualifier>
+            <GBQualifier_name>translation</GBQualifier_name>
+            <GBQualifier_value>YAGQDNGEGVWRDIPYLTKRQDKLCGSLIGMTNRATWASHIHLVIHRIRTLIGKERYTDYLTVMDRYSVDADLQPGELI</GBQualifier_value>
+          </GBQualifier>
+        </GBFeature_quals>
+      </GBFeature>
+    </GBSeq_feature-table>
+    <GBSeq_sequence>tatgcaggacaagacaatggtgaaggagtgtggcgagacatcccttacctgaccaagagacaggacaagctttgtggatcactgattgggatgaccaacagagccacttgggcatctcacatccacttggtaatacaccgcatccggacactgattgggaaagagagatacactgactacctgacagtcatggataggtactctgtggatgctgatctgcagcccggcgagctcatctgagacgccgttccaagaacaaccaagaactagaccttgtacatagaacaaaactgaaaccgggataaaaactacggatggagaaccggactccacacatcaaacagaagaggatgtcagcccagaaacccgcatgggttctgccactgctaagctgtgaggcagtgcaggctgggacagccgccttccaggttgcgaaaaacctggtttctgagacttcccacctcagagtaaaactaaatggagcctccgctaccacccccccacgtggtggtagaaagatggggtctagaggttagaggagaccca</GBSeq_sequence>
+  </GBSeq>

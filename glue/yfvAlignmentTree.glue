@@ -1,237 +1,48 @@
   ### Declare constrained alignment tree
 
-  create alignment AL_YFV1 -r REF_MASTER_YFV1
-  alignment AL_YFV1
-    add member --whereClause "genotype like '1%'"
-    exit
-    
-   create alignment AL_YFV2 -r REF_MASTER_YFV2
-   alignment AL_YFV2
-    add member --whereClause "genotype like '2%'"
-    exit
-    
-   create alignment AL_YFV3 -r REF_MASTER_YFV3
-   alignment AL_YFV3
-    add member --whereClause "genotype like '3%'"
-    exit
+  create alignment AL_YFV_ROOT -r REF_MASTER_YFV
 
-   create alignment AL_YFV4 -r REF_MASTER_YFV4
-   alignment AL_YFV4
-    add member --whereClause "genotype like '4%'"
-    exit
+  alignment AL_YFV_ROOT
+
+    add member --allSequences
+
+    set field displayName "Yellow fever virus"
   
-	
-  # Derive constrained alignments from unconstrained alignments
+	extract child AL_YFV_SouthAmerica1 -r REF_OR119828_Panama_2002
+	demote member AL_YFV_SouthAmerica1 --whereClause "sequence.genotype = 'SouthAmerica1'"
   
-  alignment AL_YFV1
-	derive segments AL_UNC_YFV1 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_YFV2
-	derive segments AL_UNC_YFV2 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_YFV3
-	derive segments AL_UNC_YFV3 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-  alignment AL_YFV4
-	derive segments AL_UNC_YFV4 --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
-	exit
-
-
-
-  alignment AL_YFV1
-
-    set field displayName "1"
-    set field clade_category "serotype"
+	extract child AL_YFV_SouthAmerica2 -r REF_JF912181_Brazil_1983
+	demote member AL_YFV_SouthAmerica2 --whereClause "sequence.genotype = 'SouthAmerica2'"
   
-	extract child AL_YFV1I -r REF_YFV1I_AB608786
-	demote member AL_YFV1I --whereClause "sequence.genotype = '1I'"
+	extract child AL_YFV_WestAfrica -r REF_AF094612_Trinidad_1979
+	demote member AL_YFV_WestAfrica --whereClause "sequence.genotype = 'WestAfrica'"
 
-	extract child AL_YFV1II -r REF_YFV1II_AF180817
-	demote member AL_YFV1II --whereClause "sequence.genotype = '1II'"
-
-	extract child AL_YFV1III -r REF_YFV1III_AY713473
-	demote member AL_YFV1III --whereClause "sequence.genotype = '1III'"
-
-	extract child AL_YFV1IV -r REF_YFV1IV_AB074761
-	demote member AL_YFV1IV --whereClause "sequence.genotype = '1IV'"
-
-	extract child AL_YFV1V -r REF_YFV1V_AB519681
-	demote member AL_YFV1V --whereClause "sequence.genotype = '1V'"
-
-	extract child AL_YFV1VI -r REF_YFV1V_AB519681
-	demote member AL_YFV1VI --whereClause "sequence.genotype = '1VI'"
+	extract child AL_YFV_EastAfrica -r REF_AY968064_Angola_1971
+	demote member AL_YFV_EastAfrica --whereClause "sequence.genotype = 'EastAfrica'"
 	
 	exit
 
-  alignment AL_YFV2
+  alignment AL_YFV_SouthAmerica1
+    set field displayName "South America 1"
+    set field clade_category "genotype"
+    exit
 
-    set field displayName "2"
-    set field clade_category "serotype"
-  
-	extract child AL_YFV2I -r REF_YFV2I_AF100469
-	demote member AL_YFV2I --whereClause "sequence.genotype = '2I'"
+  alignment AL_YFV_SouthAmerica2
+    set field displayName "South America 2"
+    set field clade_category "genotype"
+    exit
 
-	extract child AL_YFV2II -r REF_YFV2II_EU056810
-	demote member AL_YFV2II --whereClause "sequence.genotype = '2II'"
+  alignment AL_YFV_WestAfrica
+    set field displayName "West Africa"
+    set field clade_category "genotype"
+    exit
 
-	extract child AL_YFV2III -r REF_YFV2III_AB122020
-	demote member AL_YFV2III --whereClause "sequence.genotype = '2III'"
+  alignment AL_YFV_EastAfrica
+    set field displayName "East Africa"
+    set field clade_category "genotype"
+    exit
 
-	extract child AL_YFV2IV -r REF_YFV2IV_AF038403
-	demote member AL_YFV2IV --whereClause "sequence.genotype = '2IV'"
-
-	extract child AL_YFV2V -r REF_YFV2V_DQ181797
-	demote member AL_YFV2V --whereClause "sequence.genotype = '2V'"
-
-	extract child AL_YFV2VI -r REF_YFV2VI_EF105379
-	demote member AL_YFV2VI --whereClause "sequence.genotype = '2VI'"
-	
+  alignment AL_YFV_ROOT
+	derive segments AL_UNC_YFV_ROOT --recursive --existingMembersOnly --allMembers --mergeStrategy OVERWRITE
 	exit
-
-  alignment AL_YFV3
-
-    set field displayName "3"
-    set field clade_category "serotype"
-
-	extract child AL_YFV3I -r REF_YFV3I_AY858037
-	demote member AL_YFV3I --whereClause "sequence.genotype = '3I'"
-
-	extract child AL_YFV3II -r REF_YFV3II_AY496871
-	demote member AL_YFV3II --whereClause "sequence.genotype = '3II'"
-
-	extract child AL_YFV3III -r REF_YFV3III_AY099336
-	demote member AL_YFV3III --whereClause "sequence.genotype = '3III'"
-
-	extract child AL_YFV3V -r REF_YFV3V_AF317645
-	demote member AL_YFV3V --whereClause "sequence.genotype = '3V'"
-	
-	exit
-
-  alignment AL_YFV4
-
-    set field displayName "4"
-    set field clade_category "serotype"
-
-	extract child AL_YFV4I -r REF_YFV4I_AY618991
-	demote member AL_YFV4I --whereClause "sequence.genotype = '4I'"
-
-	extract child AL_YFV4II -r REF_YFV4II_AF326573
-	demote member AL_YFV4II --whereClause "sequence.genotype = '4II'"
-
-	extract child AL_YFV4III -r REF_YFV4III_AY618988
-	demote member AL_YFV4III --whereClause "sequence.genotype = '4III'"
-
-	extract child AL_YFV4IV -r REF_YFV4IV_EF457906
-	demote member AL_YFV4IV --whereClause "sequence.genotype = '4IV'"
-	
-	exit
-
-
-
-  alignment AL_YFV1I
-    set field displayName "1I"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV1II
-    set field displayName "1II"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV1III
-    set field displayName "1III"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV1IV
-    set field displayName "1IV"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV1V
-    set field displayName "1V"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV1VI
-    set field displayName "1VI"
-    set field clade_category "genotype"
-    exit
-
-
-  alignment AL_YFV2I
-    set field displayName "2I"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV2II
-    set field displayName "2II"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV2III
-    set field displayName "2III"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV2IV
-    set field displayName "12V"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV1V
-    set field displayName "1V"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV2VI
-    set field displayName "1VI"
-    set field clade_category "genotype"
-    exit
-
-
-  alignment AL_YFV3I
-    set field displayName "3I"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV3II
-    set field displayName "3II"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV3III
-    set field displayName "3III"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV3V
-    set field displayName "3V"
-    set field clade_category "genotype"
-    exit
-
-
-  alignment AL_YFV4I
-    set field displayName "4I"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV4II
-    set field displayName "4II"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV4III
-    set field displayName "4III"
-    set field clade_category "genotype"
-    exit
-
-  alignment AL_YFV4IV
-    set field displayName "4V"
-    set field clade_category "genotype"
-    exit
-
 

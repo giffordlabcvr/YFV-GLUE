@@ -1,23 +1,16 @@
   # Clean-up
   
   # Delete modules
-  delete module dengueNucsRaxmlPhylogenyGenerator
-  
-  # Delete alignment
-  delete alignment AL_UNC_REFSEQS_Dengue
-
-  module unconstrainedAlignmentImporter
-    import AL_UNC_REFSEQS_Dengue -f alignments/dengue-genotype-tree.aln.fna
-    exit
-  
+  delete module yfvNucsRaxmlPhylogenyGenerator
+    
   # Create all the modules we need
-  create module -f modules/dengueNucsRaxmlPhylogenyGenerator.xml
+  create module -f modules/yfvNucsRaxmlPhylogenyGenerator.xml
 
   # Create the phylogeny (without outgroup)
-  module dengueNucsRaxmlPhylogenyGenerator
+  module yfvNucsRaxmlPhylogenyGenerator
     
-    generate nucleotide phylogeny AL_UNC_REFSEQS_Dengue \
-      -a -o trees/dengueReferencePhylogeny.tree \
+    generate nucleotide phylogeny AL_UNC_YFV_ROOT \
+      -a -o trees/yfvReferencePhylogeny.tree \
       NEWICK_BOOTSTRAPS
       
     exit    

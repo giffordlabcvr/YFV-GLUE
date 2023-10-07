@@ -2,6 +2,9 @@
   <sequenceFormat>GENBANK_XML</sequenceFormat>
   <specificPrimaryAccessions>
 
+    <!-- Master reference -->  
+	<primaryAccession>NC_002031</primaryAccession>
+
     <!-- South America I -->  
 	<primaryAccession>JF912190</primaryAccession>
 	<primaryAccession>JF912187</primaryAccession>

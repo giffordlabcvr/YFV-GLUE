@@ -1,5 +1,5 @@
 var codingFeaturesToCheck = ["ancC", "capsid", "envelope", "non_structural_proteins",
-                             "precursor_polyprotein", "structural_proteins",  "pr", "prM",
+                             "precursor_polyprotein", "structural_proteins", "prM",
                              "2K", "M", "NS1", "NS2A", "NS2B", "NS3", "NS4A", "NS4B", "NS5" ];
 
 var problematicRefs = {};

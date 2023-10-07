@@ -1,0 +1,13 @@
+delete module yfvPhyloImporter
+create module -f modules/yfvPhyloImporter.xml
+
+module yfvPhyloImporter
+
+  import phylogeny AL_YFV_ROOT \
+  --recursive \
+  --anyAlignment \
+  --whereClause "sequence.source.name = 'ncbi-refseqs' and referenceMember = false" \
+  --inputFile trees/yfvReferencePhylogenyMidpointRerooted.tree NEWICK_BOOTSTRAPS \
+  --fieldName phylogeny
+
+  exit

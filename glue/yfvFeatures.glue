@@ -47,11 +47,6 @@
   feature prM set metatag INCLUDE_IN_SUMMARY true
   feature prM set metatag CODES_AMINO_ACIDS true
 
-  create feature pr -p structural_proteins "protein pr"
-  feature pr set metatag OWN_CODON_NUMBERING true
-  feature pr set metatag INCLUDE_IN_SUMMARY true
-  feature pr set metatag CODES_AMINO_ACIDS true
-
 
   ## Membrane
 

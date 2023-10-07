@@ -1,104 +1,100 @@
   # Genotype 1 Master reference
-  reference REF_MASTER_DENV1
+  
+  reference REF_MASTER_YFV
 
     add feature-location whole_genome
     feature-location whole_genome
-      add segment 1 10735
+      add segment 1 10862
       exit
 
     add feature-location 5UTR
     feature-location 5UTR
-      add segment 1 94
+      add segment 1 118
       exit
 
     add feature-location precursor_polyprotein
     feature-location precursor_polyprotein
-      add segment 95 10273
+      add segment 119 10354
       exit
 
     add feature-location structural_proteins
     feature-location structural_proteins
-      add segment 95 2419
+      add segment 119 2452
       exit
 
     add feature-location non_structural_proteins
     feature-location non_structural_proteins
-      add segment 2420 10270
+      add segment 2453 10354
       exit
 
     add feature-location ancC
     feature-location ancC
-      add segment 95 436
+      add segment 119 481
       exit
 
     add feature-location capsid
     feature-location capsid
-      add segment 95 394
+      add segment 119 421
       exit
 
     add feature-location prM
     feature-location prM
-      add segment 437 934
-      exit
-
-    add feature-location pr
-    feature-location pr
-      add segment 437 709
+      add segment 482 973
       exit
 
     add feature-location M
     feature-location M
-      add segment 710 934
+      add segment 749 973
       exit
 
     add feature-location envelope
     feature-location envelope
-      add segment 935 2419
+      add segment 974 2452
       exit
 
     add feature-location NS1
     feature-location NS1
-      add segment 2420 3475
+      add segment 2453 3508
       exit
 
     add feature-location NS2A
     feature-location NS2A
-      add segment 3476 4129
+      add segment 3509 4180
       exit
 
     add feature-location NS2B
     feature-location NS2B
-      add segment 4130 4519
+      add segment 4181 4570
       exit
 
     add feature-location NS3
     feature-location NS3
-      add segment 4520 6376
+      add segment 4571 6439
       exit
 
     add feature-location NS4A
     feature-location NS4A
-      add segment 6758 6826
+      add segment 6440 6817
       exit
 
     add feature-location 2K
     feature-location 2K
-      add segment 6758 6826
+      add segment 6818 6886
       exit
 
     add feature-location NS4B
     feature-location NS4B
-      add segment 6827 7573
+      add segment 6887 7636
       exit
 
     add feature-location NS5
     feature-location NS5
-      add segment 7574 10270
+      add segment 7637 10351
       exit
       
     add feature-location 3UTR
     feature-location 3UTR
-      add segment 10271 10735
+      add segment 10355 10862
       exit
 
   exit 

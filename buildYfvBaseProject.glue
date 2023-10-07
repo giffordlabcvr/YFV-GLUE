@@ -9,7 +9,7 @@ project yfv
   run file glue/yfvProjectSettings.glue
   run file glue/yfvModules.glue
 
-  # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
+  # NCBI refseqs - taxa in the reference phylogeny, plus the  master reference
   import source sources/ncbi-refseqs
  
   # Link sequence table entries to isolate table
@@ -19,9 +19,9 @@ project yfv
   module yfvGenbankXmlPopulator populate -w "source.name = 'ncbi-refseqs'"
 
   # Load tabular data
-  #module yfvSideDataImporter
-  #  populate -f tabular/yfv_reference_data.tsv
-  #  exit
+  module yfvSideDataImporter
+    populate -f tabular/yfv_genotype.tsv
+    exit
 
   # Define references
   run file glue/yfvReferences.glue
@@ -30,20 +30,20 @@ project yfv
   run file glue/yfvUnconstrainedAlignments.glue
 
   # Define alignment tree
-  #run file glue/yfvAlignmentTree.glue
+  run file glue/yfvAlignmentTree.glue
 
   # Define features
   run file glue/yfvFeatures.glue
   
   # Define feature locations on master references
-  #run file glue/yfvExplicitFeatureLocations.glue
+  run file glue/yfvExplicitFeatureLocations.glue
   
   # inherit feature locations across other references
   #run script glue/yfvRefseqsInheritFeatureLocations.js
   #run script glue/yfvValidateRefseqFeatureLocations.js
 
   # import the reference phylogeny into the alignment tree
-  #run file glue/yfvImportPhylogenies.glue
+  run file glue/yfvImportPhylogeny.glue
   
   # Validate
   validate

@@ -1,5 +1,5 @@
 # Build the base project
-run file dengueBaseProject.glue
+run file buildYfvBaseProject.glue
 
 # Build the extension project
-run file dengueExtensionProject.glue
+run file buildYfvExtensionProject.glue

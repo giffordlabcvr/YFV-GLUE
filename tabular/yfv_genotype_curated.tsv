@@ -1,0 +1,1765 @@
+source.name	sequenceID	pubmed_id	length	genotype	isolate_data.country
+ncbi-curated	AF052437	9712515	10862	WestAfrica	-
+ncbi-curated	AF052438	9712515	10862	WestAfrica	-
+ncbi-curated	AF052439	9712515	10862	WestAfrica	-
+ncbi-curated	AF052444	9714237	10862	WestAfrica	-
+ncbi-curated	AF052445	9714237	10862	WestAfrica	-
+ncbi-curated	AF052446	9714237	10862	WestAfrica	-
+ncbi-curated	CS805341	-	10862	WestAfrica	-
+ncbi-curated	DQ100292	-	10862	WestAfrica	Brazil
+ncbi-curated	DQ118157	16597510	10862	WestAfrica	Spain
+ncbi-curated	FJ654700	-	10862	WestAfrica	China
+ncbi-curated	FU267585	-	10862	WestAfrica	-
+ncbi-curated	FV537409	-	10862	-	-
+ncbi-curated	FV537410	-	10862	-	-
+ncbi-curated	FV537411	-	10862	-	-
+ncbi-curated	FV537412	-	10862	-	-
+ncbi-curated	GQ379162	19679215	10862	WestAfrica	Peru
+ncbi-curated	GQ379163	19679215	10862	WestAfrica	Peru
+ncbi-curated	HM582851	20631128	10236	SouthAmerica1	Trinidad and Tobago
+ncbi-curated	JA784072	-	6300	WestAfrica	-
+ncbi-curated	JA784073	-	6300	WestAfrica	-
+ncbi-curated	JA784080	-	10776	WestAfrica	-
+ncbi-curated	JA784081	-	10788	WestAfrica	-
+ncbi-curated	JA784082	-	10811	WestAfrica	-
+ncbi-curated	JA784083	-	10785	WestAfrica	-
+ncbi-curated	JA784086	-	10862	WestAfrica	-
+ncbi-curated	JB319320	-	6300	WestAfrica	-
+ncbi-curated	JB319321	-	6300	WestAfrica	-
+ncbi-curated	JB319328	-	10776	WestAfrica	-
+ncbi-curated	JB319329	-	10788	WestAfrica	-
+ncbi-curated	JB319330	-	10811	WestAfrica	-
+ncbi-curated	JB319331	-	10785	WestAfrica	-
+ncbi-curated	JB319334	-	10862	WestAfrica	-
+ncbi-curated	JN628279	22197965	10862	WestAfrica	-
+ncbi-curated	JN628280	22197965	10862	WestAfrica	-
+ncbi-curated	JN628281	22197965	10862	WestAfrica	-
+ncbi-curated	JN811140	23602827	10862	WestAfrica	-
+ncbi-curated	JN811141	23602827	10862	WestAfrica	-
+ncbi-curated	JN811142	23602827	10862	WestAfrica	-
+ncbi-curated	JN811143	23602827	10862	WestAfrica	-
+ncbi-curated	JX503529	-	10811	WestAfrica	-
+ncbi-curated	JX898879	23269797	10862	WestAfrica	Senegal
+ncbi-curated	JX898881	23269797	10862	WestAfrica	Senegal
+ncbi-curated	JX949181	-	10815	WestAfrica	USA
+ncbi-curated	KF769015	24141982	10838	WestAfrica	-
+ncbi-curated	KF769016	24141982	10833	WestAfrica	-
+ncbi-curated	KF907504	25053561	10657	SouthAmerica2	Bolivia
+ncbi-curated	KM388814	-	10236	SouthAmerica1	Venezuela: Portuguesa
+ncbi-curated	KM388815	-	10236	SouthAmerica1	Venezuela: Apure
+ncbi-curated	KM388816	-	10236	SouthAmerica1	Venezuela: Monagas
+ncbi-curated	KM388817	-	10236	SouthAmerica1	Venezuela: Guarico
+ncbi-curated	KM388818	-	10236	SouthAmerica1	Venezuela: Barinas
+ncbi-curated	KU921608	-	10823	EastAfrica	China
+ncbi-curated	KU949599	-	10759	EastAfrica	-
+ncbi-curated	KU978763	-	10804	WestAfrica	Nigeria
+ncbi-curated	KU978764	-	10824	WestAfrica	Sudan
+ncbi-curated	KU978765	-	10851	WestAfrica	Guinea-Bissau
+ncbi-curated	KX010994	-	10823	EastAfrica	China
+ncbi-curated	KX010995	-	10822	EastAfrica	China
+ncbi-curated	KX010996	-	10823	EastAfrica	China
+ncbi-curated	KX027336	-	10823	EastAfrica	China
+ncbi-curated	KX268355	-	10825	EastAfrica	China
+ncbi-curated	KX982182	28402771	10623	EastAfrica	Angola
+ncbi-curated	KY495641	-	10783	EastAfrica	China
+ncbi-curated	KY587416	-	10763	EastAfrica	China
+ncbi-curated	KY873606	-	9519	EastAfrica	China
+ncbi-curated	KY873607	-	10744	EastAfrica	China
+ncbi-curated	KY873608	-	10345	EastAfrica	China
+ncbi-curated	LP837229	-	10838	WestAfrica	-
+ncbi-curated	LP837643	-	10838	WestAfrica	-
+ncbi-curated	LP981866	-	10838	WestAfrica	-
+ncbi-curated	LQ460610	-	8681	WestAfrica	-
+ncbi-curated	LQ564352	-	8681	WestAfrica	-
+ncbi-curated	LY683279	-	10862	WestAfrica	-
+ncbi-curated	LY683293	-	10862	WestAfrica	-
+ncbi-curated	LY720078	-	10862	WestAfrica	-
+ncbi-curated	MA388208	-	8681	WestAfrica	-
+ncbi-curated	MF004382	-	10795	SouthAmerica2	Bolivia
+ncbi-curated	MF004383	-	10822	EastAfrica	Sudan
+ncbi-curated	MF170968	29427798	10236	SouthAmerica1	Brazil: ES, Marechal Floriano
+ncbi-curated	MF170969	29427798	10236	SouthAmerica1	Brazil: ES, Casimiro de Abreu
+ncbi-curated	MF170970	29427798	10236	SouthAmerica1	Brazil: ES, Domingos Martins
+ncbi-curated	MF170971	29427798	10236	SouthAmerica1	Brazil: MG, Sao Roque de Minas
+ncbi-curated	MF170972	29427798	10236	SouthAmerica1	Brazil: ES, Cariacica
+ncbi-curated	MF170973	29427798	10236	SouthAmerica1	Brazil: ES, Domingos Martins
+ncbi-curated	MF170974	29427798	10236	SouthAmerica1	Brazil: ES, Cariacica
+ncbi-curated	MF170975	29427798	10236	SouthAmerica1	Brazil: ES, Brejetuba
+ncbi-curated	MF170976	29427798	10236	SouthAmerica1	Brazil: ES, Laranja da Terra
+ncbi-curated	MF170977	29427798	10236	SouthAmerica1	Brazil: ES, Conceicao do Castelo
+ncbi-curated	MF170978	29427798	10236	SouthAmerica1	Brazil: ES, Santa Maria de Jetiba
+ncbi-curated	MF170979	29427798	10236	SouthAmerica1	Brazil: ES, Santa Maria de Jetiba
+ncbi-curated	MF170980	29427798	10236	SouthAmerica1	Brazil: ES, Alfredo Chaves
+ncbi-curated	MF170981	29427798	10236	SouthAmerica1	Brazil: ES, Santa Leopoldina
+ncbi-curated	MF185660	29427798	7969	SouthAmerica1	Brazil: RJ, Sao Sebastiao do Alto
+ncbi-curated	MF185661	29427798	6995	SouthAmerica1	Brazil: RJ, Porciuncula
+ncbi-curated	MF289572	-	10839	WestAfrica	Singapore
+ncbi-curated	MF347613	-	10212	SouthAmerica1	Suriname
+ncbi-curated	MF370530	-	10885	SouthAmerica1	Brazil
+ncbi-curated	MF370533	-	10881	SouthAmerica1	Brazil
+ncbi-curated	MF370535	-	10897	SouthAmerica1	Brazil
+ncbi-curated	MF370542	-	10898	SouthAmerica1	Brazil
+ncbi-curated	MF370547	-	10998	SouthAmerica1	Brazil
+ncbi-curated	MF370549	-	10581	SouthAmerica1	Brazil
+ncbi-curated	MF405338	-	10395	WestAfrica	Ghana
+ncbi-curated	MF465805	-	10948	SouthAmerica1	Brazil
+ncbi-curated	MF926243	-	10195	WestAfrica	France
+ncbi-curated	MG051217	29580693	10730	WestAfrica	-
+ncbi-curated	MG051218	29580693	10727	WestAfrica	-
+ncbi-curated	MG589641	-	10789	EastAfrica	China
+ncbi-curated	MG922934	-	10786	WestAfrica	Germany
+ncbi-curated	MH018064	-	10213	SouthAmerica1	Brazil: Minas Gerais, Santa Rita de Caldas
+ncbi-curated	MH018065	-	10213	SouthAmerica1	Brazil: Minas Gerais, Delfinopolis
+ncbi-curated	MH018066	-	10213	SouthAmerica1	Brazil: Minas Gerais, Ouro Fino
+ncbi-curated	MH018067	-	10213	SouthAmerica1	Brazil: Minas Gerais, Caldas
+ncbi-curated	MH018068	-	10213	SouthAmerica1	Brazil: Minas Gerais, Caratinga
+ncbi-curated	MH018069	-	9509	SouthAmerica1	Brazil: Minas Gerais, Ladainha
+ncbi-curated	MH018070	-	10213	SouthAmerica1	Brazil: Minas Gerais, Itambacuri
+ncbi-curated	MH018071	-	9925	SouthAmerica1	Brazil: Minas Gerais, Novo Cruzeiro
+ncbi-curated	MH018072	-	10213	SouthAmerica1	Brazil: Minas Gerais, Itambacuri
+ncbi-curated	MH018073	-	10213	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH018074	-	10213	SouthAmerica1	Brazil: Minas Gerais, Novo Cruzeiro
+ncbi-curated	MH018075	-	9519	SouthAmerica1	Brazil: Minas Gerais, Pote
+ncbi-curated	MH018076	-	10213	SouthAmerica1	Brazil: Minas Gerais, Setubinha
+ncbi-curated	MH018077	-	10213	SouthAmerica1	Brazil: Minas Gerais, Ladainha
+ncbi-curated	MH018078	-	10213	SouthAmerica1	Brazil: Minas Gerais, Novo Cruzeiro
+ncbi-curated	MH018079	-	10213	SouthAmerica1	Brazil: Minas Gerais, Itambacuri
+ncbi-curated	MH018080	-	10213	SouthAmerica1	Brazil: Minas Gerais, Ladainha
+ncbi-curated	MH018081	-	10213	SouthAmerica1	Brazil: Minas Gerais, Aguanil
+ncbi-curated	MH018082	-	10213	SouthAmerica1	Brazil: Minas Gerais, Claraval
+ncbi-curated	MH018083	-	10213	SouthAmerica1	Brazil: Minas Gerais, Abre Campo
+ncbi-curated	MH018084	-	10213	SouthAmerica1	Brazil: Minas Gerais, Ladainha
+ncbi-curated	MH018085	-	10213	SouthAmerica1	Brazil: Minas Gerais, Imbe de Minas
+ncbi-curated	MH018086	-	9519	SouthAmerica1	Brazil: Minas Gerais, Ladainha
+ncbi-curated	MH018087	-	10213	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH018088	-	10213	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH018089	-	10213	SouthAmerica1	Brazil: Minas Gerais, Ladainha
+ncbi-curated	MH018090	-	10213	SouthAmerica1	Brazil: Minas Gerais, Caratinga
+ncbi-curated	MH018091	-	10213	SouthAmerica1	Brazil: Minas Gerais, Novo Cruzeiro
+ncbi-curated	MH018092	-	10213	SouthAmerica1	Brazil: Minas Gerais, Itambacuri
+ncbi-curated	MH018093	-	10213	SouthAmerica1	Brazil: Minas Gerais, Santa Barbara Leste
+ncbi-curated	MH018094	-	10213	SouthAmerica1	Brazil: Minas Gerais, Simonesia
+ncbi-curated	MH018095	-	10213	SouthAmerica1	Brazil: Minas Gerais, Sabinopolis
+ncbi-curated	MH018096	-	10213	SouthAmerica1	Brazil: Minas Gerais, Jose Raydan
+ncbi-curated	MH018097	-	10212	SouthAmerica1	Brazil: Minas Gerais, Luisburgo
+ncbi-curated	MH018098	-	10213	SouthAmerica1	Brazil: Minas Gerais, Chapada Gaucha
+ncbi-curated	MH018099	-	10169	SouthAmerica1	Brazil: Bahia, Cordeiros
+ncbi-curated	MH018100	-	10169	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	MH018101	-	10169	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	MH018102	-	10215	SouthAmerica1	Brazil: Espirito Santo, Domingos Martins
+ncbi-curated	MH018103	-	10194	SouthAmerica1	Brazil: Minas Gerais, Novo Cruzeiro
+ncbi-curated	MH018104	-	10195	SouthAmerica1	Brazil: Minas Gerais, Itambacuri
+ncbi-curated	MH018105	-	10194	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH018106	-	10213	SouthAmerica1	Brazil: Minas Gerais, Coronel Murta
+ncbi-curated	MH018107	-	10218	SouthAmerica1	Brazil: Espirito Santo, Vitoria
+ncbi-curated	MH018108	-	10191	SouthAmerica1	Brazil: Espirito Santo, Cariacica
+ncbi-curated	MH018109	-	10195	SouthAmerica1	Brazil: Espirito Santo, Cariacica
+ncbi-curated	MH018110	-	10195	SouthAmerica1	Brazil: Espirito Santo, Cariacica
+ncbi-curated	MH018111	-	10195	SouthAmerica1	Brazil: Espirito Santo, Domingos Martins
+ncbi-curated	MH018112	-	10216	SouthAmerica1	Brazil: Rio de Janeiro, Marica
+ncbi-curated	MH018113	-	10195	SouthAmerica1	Brazil: Rio de Janeiro, Casimiro de Abreu
+ncbi-curated	MH018114	-	10233	SouthAmerica1	Brazil: Espirito Santo, Itarana
+ncbi-curated	MH018115	-	10233	SouthAmerica1	Brazil: Espirito Santo, Venda Nova do Imigrante
+ncbi-curated	MH030049	-	10169	SouthAmerica1	Brazil: Sao Paulo, Vinhedo
+ncbi-curated	MH030050	-	10169	SouthAmerica1	Brazil: Sao Paulo, Louveira
+ncbi-curated	MH030051	-	10169	SouthAmerica1	Brazil: Sao Paulo, Louveira
+ncbi-curated	MH030052	-	10169	SouthAmerica1	Brazil: Sao Paulo, Louveira
+ncbi-curated	MH030053	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030054	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030055	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030056	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030057	-	10169	SouthAmerica1	Brazil: Sao Paulo, Braganca Paulista
+ncbi-curated	MH030058	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030059	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030060	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030061	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030062	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030063	-	10169	SouthAmerica1	Brazil: Sao Paulo, Itatiba
+ncbi-curated	MH030064	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030065	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030066	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030067	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030068	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jundiai
+ncbi-curated	MH030069	-	10169	SouthAmerica1	Brazil: Sao Paulo, SaoPaulo
+ncbi-curated	MH030070	-	10169	SouthAmerica1	Brazil: Sao Paulo, Campo Limpo Paulista
+ncbi-curated	MH030071	-	10169	SouthAmerica1	Brazil: Sao Paulo, Campo Limpo Paulista
+ncbi-curated	MH030072	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jarinu
+ncbi-curated	MH030073	-	10169	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MH030074	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jarinu
+ncbi-curated	MH030075	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jarinu
+ncbi-curated	MH030076	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jarinu
+ncbi-curated	MH030077	-	10169	SouthAmerica1	Brazil: Sao Paulo, Jarinu
+ncbi-curated	MH030078	-	10169	SouthAmerica1	Brazil: Sao Paulo, Morungaba
+ncbi-curated	MH030079	-	10169	SouthAmerica1	Brazil: Sao Paulo, Nazare Paulista
+ncbi-curated	MH030080	-	10169	SouthAmerica1	Brazil: Sao Paulo, Nazare Paulista
+ncbi-curated	MH030081	-	10169	SouthAmerica1	Brazil: Sao Paulo, Campo Limpo
+ncbi-curated	MH030082	-	10169	SouthAmerica1	Brazil: Sao Paulo, Campo Limpo
+ncbi-curated	MH030083	-	10169	SouthAmerica1	Brazil: Sao Paulo, Campo Limpo
+ncbi-curated	MH030084	-	10169	SouthAmerica1	Brazil: Sao Paulo, Piracaia
+ncbi-curated	MH030085	-	10169	SouthAmerica1	Brazil: Sao Paulo, Piracaia
+ncbi-curated	MH030086	-	10169	SouthAmerica1	Brazil: Sao Paulo, Piracaia
+ncbi-curated	MH030087	-	10169	SouthAmerica1	Brazil: Sao Paulo, Americana
+ncbi-curated	MH030088	-	10169	SouthAmerica1	Brazil: Sao Paulo, Tuiuti
+ncbi-curated	MH030089	-	10169	SouthAmerica1	Brazil: Sao Paulo, Sao Joao Boa Vista
+ncbi-curated	MH030090	-	10169	SouthAmerica1	Brazil: Sao Paulo, Sao Joao Boa Vista
+ncbi-curated	MH030091	-	10169	SouthAmerica1	Brazil: Sao Paulo, Campinas
+ncbi-curated	MH193173	-	10169	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MH193174	-	10169	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MH193175	-	10169	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo Zoologico
+ncbi-curated	MH329655	-	10169	SouthAmerica1	Brazil
+ncbi-curated	MH378284	-	10172	SouthAmerica1	Brazil
+ncbi-curated	MH444794	30194325	10841	WestAfrica	France
+ncbi-curated	MH444795	30194325	10844	WestAfrica	France
+ncbi-curated	MH444796	30194325	10846	WestAfrica	France
+ncbi-curated	MH444797	30194325	10846	WestAfrica	France
+ncbi-curated	MH444798	30194325	10851	WestAfrica	Senegal
+ncbi-curated	MH484423	-	9475	SouthAmerica1	Brazil: Minas Gerais, Jose Raydan
+ncbi-curated	MH484424	-	10169	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH484425	-	10169	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH484426	-	9758	SouthAmerica1	Brazil: Minas Gerais, Itamarandiba
+ncbi-curated	MH484427	-	10169	SouthAmerica1	Brazil: Minas Gerais, Felicio dos Santos
+ncbi-curated	MH484428	-	10169	SouthAmerica1	Brazil: Minas Gerais, Teofilo Otoni
+ncbi-curated	MH484429	-	10169	SouthAmerica1	Brazil: Minas Gerais, Chapada Gaucha
+ncbi-curated	MH484430	-	10169	SouthAmerica1	Brazil: Minas Gerais, Sacramento
+ncbi-curated	MH484431	-	9763	SouthAmerica1	Brazil: Minas Gerais, Juatuba
+ncbi-curated	MH484432	-	9763	SouthAmerica1	Brazil: Minas Gerais, Bom Jesus do Galho
+ncbi-curated	MH484433	-	9763	SouthAmerica1	Brazil: Minas Gerais, Sao Roque de Minas
+ncbi-curated	MH484434	-	10169	SouthAmerica1	Brazil: Minas Gerais, Sao Joao Evangelista
+ncbi-curated	MH560359	-	10780	SouthAmerica1	Brazil
+ncbi-curated	MH633684	-	10420	EastAfrica	China
+ncbi-curated	MH633685	-	10420	EastAfrica	China
+ncbi-curated	MH633686	-	10420	EastAfrica	China
+ncbi-curated	MH633687	-	10568	EastAfrica	China
+ncbi-curated	MH633688	-	10420	EastAfrica	China
+ncbi-curated	MH633689	-	10243	EastAfrica	China
+ncbi-curated	MH633690	-	10221	EastAfrica	China
+ncbi-curated	MH633691	-	10838	EastAfrica	China
+ncbi-curated	MH633692	-	10310	EastAfrica	China
+ncbi-curated	MH666056	-	10236	SouthAmerica1	Brazil
+ncbi-curated	MH666057	-	10185	SouthAmerica1	Brazil
+ncbi-curated	MH666058	-	10239	SouthAmerica1	Brazil
+ncbi-curated	MH666059	-	9678	SouthAmerica1	Brazil
+ncbi-curated	MH666060	-	10233	SouthAmerica1	Brazil
+ncbi-curated	MK060080	30254315	10195	WestAfrica	Senegal
+ncbi-curated	MK089775	-	10354	SouthAmerica1	Brazil: Marica - RJ
+ncbi-curated	MK249065	-	10164	SouthAmerica1	Brazil
+ncbi-curated	MK249066	-	10164	SouthAmerica1	Brazil
+ncbi-curated	MK292067	30696531	10770	WestAfrica	Netherlands
+ncbi-curated	MK333805	31178835	10354	SouthAmerica1	Brazil: Ilha Grande - RJ
+ncbi-curated	MK457700	-	10493	WestAfrica	Nigeria
+ncbi-curated	MK457701	-	10684	WestAfrica	Nigeria
+ncbi-curated	MK457703	-	7419	WestAfrica	Nigeria
+ncbi-curated	MK583147	31892699	10946	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583148	31892699	10975	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583149	31892699	10999	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo
+ncbi-curated	MK583150	31892699	10991	SouthAmerica1	Brazil: Sao Paulo, Itaquaquecetuba
+ncbi-curated	MK583151	31892699	10953	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583152	31892699	10984	SouthAmerica1	Brazil: Sao Paulo, Ibiuna
+ncbi-curated	MK583153	31892699	10995	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583154	31892699	10993	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo
+ncbi-curated	MK583155	31892699	10992	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583156	31892699	10941	SouthAmerica1	Brazil: Sao Paulo, Atibaia
+ncbi-curated	MK583157	31892699	10949	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583158	31892699	10995	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583159	31892699	10998	SouthAmerica1	Brazil: Sao Paulo, Atibaia
+ncbi-curated	MK583160	31892699	10968	SouthAmerica1	Brazil: Sao Paulo, Cotia
+ncbi-curated	MK583161	31892699	10945	SouthAmerica1	Brazil: Sao Paulo, Itaquaquecetuba
+ncbi-curated	MK583162	31892699	10999	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo
+ncbi-curated	MK583163	31892699	10944	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo
+ncbi-curated	MK583164	31892699	10999	SouthAmerica1	Brazil: Sao Paulo, Cotia
+ncbi-curated	MK583165	31892699	10986	SouthAmerica1	Brazil: Sao Paulo, Mairipora
+ncbi-curated	MK583166	31892699	10946	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo
+ncbi-curated	MK583167	31892699	10947	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583168	31892699	10993	SouthAmerica1	Brazil: Sao Paulo, Sao Paulo
+ncbi-curated	MK583169	31892699	10944	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583171	31892699	10973	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583172	31892699	10996	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583173	31892699	10991	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583174	31892699	10980	SouthAmerica1	Brazil: Sao Paulo, Aruja
+ncbi-curated	MK583175	31892699	10946	SouthAmerica1	Brazil: Sao Paulo, Itaquaquecetuba
+ncbi-curated	MK583176	31892699	10945	SouthAmerica1	Brazil: Sao Paulo, Piedade
+ncbi-curated	MK583177	31892699	10953	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583178	31892699	10945	SouthAmerica1	Brazil: Sao Paulo, Itariri
+ncbi-curated	MK583179	31892699	10986	SouthAmerica1	Brazil: Sao Paulo, Ibiuna
+ncbi-curated	MK583180	31892699	10946	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK583181	31892699	10943	SouthAmerica1	Brazil: Sao Paulo, Sao Lourenco da Serra
+ncbi-curated	MK583182	31892699	10944	SouthAmerica1	Brazil: Sao Paulo, Guarulhos
+ncbi-curated	MK760660	-	10869	SouthAmerica1	Netherlands
+ncbi-curated	MK760661	-	10850	SouthAmerica1	Netherlands
+ncbi-curated	MK760662	-	10884	SouthAmerica1	Netherlands
+ncbi-curated	MK760663	-	10856	SouthAmerica1	Netherlands
+ncbi-curated	MK760664	-	10835	SouthAmerica1	Netherlands
+ncbi-curated	MK760665	-	10786	SouthAmerica1	Netherlands
+ncbi-curated	MK760666	-	10924	SouthAmerica1	Netherlands
+ncbi-curated	MK882599	-	9763	SouthAmerica1	Brazil: Itarana, Espirito Santo
+ncbi-curated	MK882600	-	10169	SouthAmerica1	Brazil: Silva Jardim, Rio de Janeiro
+ncbi-curated	MK882601	-	10169	SouthAmerica1	Brazil: Ibatiba, Espirito Santo
+ncbi-curated	MK882602	-	9763	SouthAmerica1	Brazil: Domingos Martins, Espirito Santo
+ncbi-curated	MK882603	-	10169	SouthAmerica1	Brazil: Silva Jardim, Rio de Janeiro
+ncbi-curated	MK882604	-	10169	SouthAmerica1	Brazil: Brejetuba, Espirito Santo
+ncbi-curated	MK882605	-	9763	SouthAmerica1	Brazil: Rio de Janeiro, Rio de Janeiro
+ncbi-curated	MK882606	-	9763	SouthAmerica1	Brazil: Campos dos Goytacazes, Rio de Janeiro
+ncbi-curated	MK882607	-	10169	SouthAmerica1	Brazil: Rio de Janeiro, Rio de Janeiro
+ncbi-curated	MK882608	-	9763	SouthAmerica1	Brazil: Rio de Janeiro, Rio de Janeiro
+ncbi-curated	MK882609	-	10169	SouthAmerica1	Brazil: Vitoria, Espirito Santo
+ncbi-curated	MK882610	-	10169	SouthAmerica1	Brazil: Guarapari, Espirito Santo
+ncbi-curated	MK882611	-	10169	SouthAmerica1	Brazil: Cariacica, Espirito Santo
+ncbi-curated	MK882612	-	10169	SouthAmerica1	Brazil: Serra, Espirito Santo
+ncbi-curated	MK882613	-	10172	SouthAmerica1	Brazil: Sao Sebastiao do Alto, Rio de Janeiro
+ncbi-curated	MK882614	-	10169	SouthAmerica1	Brazil: Carmo, Rio de Janeiro
+ncbi-curated	MK882615	-	10104	SouthAmerica1	Brazil: Sao Sebastiao do Alto, Rio de Janeiro
+ncbi-curated	MK882616	-	10169	SouthAmerica1	Brazil: Marica, Rio de Janeiro
+ncbi-curated	MK882617	-	10169	SouthAmerica1	Brazil: Nova Iguacu, Rio de Janeiro
+ncbi-curated	MK882618	-	10169	SouthAmerica1	Brazil: Valenca, Rio de Janeiro
+ncbi-curated	MK882619	-	10169	SouthAmerica1	Brazil: Duas Barras, Rio de Janeiro
+ncbi-curated	MK882620	-	10169	WestAfrica	Brazil: Rio de Janeiro, Rio de Janeiro
+ncbi-curated	MK882621	-	10169	SouthAmerica1	Brazil: Angra dos Reis, Rio de Janeiro
+ncbi-curated	MN106241	31412040	10772	WestAfrica	-
+ncbi-curated	MN106242	31412040	10784	WestAfrica	-
+ncbi-curated	MN117917	32044285	10172	SouthAmerica1	Brazil
+ncbi-curated	MN211301	-	10752	WestAfrica	Nigeria
+ncbi-curated	MN211302	-	10718	WestAfrica	Nigeria
+ncbi-curated	MN211303	-	10645	WestAfrica	Nigeria
+ncbi-curated	MN211304	-	10734	WestAfrica	Nigeria
+ncbi-curated	MN211305	-	10638	WestAfrica	Nigeria
+ncbi-curated	MN211306	-	10798	WestAfrica	Nigeria
+ncbi-curated	MN211307	-	10652	WestAfrica	Nigeria
+ncbi-curated	MN211308	-	10640	WestAfrica	Nigeria
+ncbi-curated	MN211309	-	10564	WestAfrica	Nigeria
+ncbi-curated	MN211310	-	10656	WestAfrica	Nigeria
+ncbi-curated	MN211311	-	10758	WestAfrica	Nigeria
+ncbi-curated	MN506274	30866775	10719	SouthAmerica1	Brazil: Marica-RJ
+ncbi-curated	MN506281	30866775	10859	SouthAmerica1	Brazil: Marica-RJ
+ncbi-curated	MN604280	32780745	10166	SouthAmerica1	Brazil: Cordeiros, Bahia
+ncbi-curated	MN604281	32780745	10167	SouthAmerica1	Brazil: Santa Rita de Cassia, Bahia
+ncbi-curated	MN604282	32780745	10167	SouthAmerica1	Brazil: Camacari, Bahia
+ncbi-curated	MN604283	32780745	10167	SouthAmerica1	Brazil: Salvador, Bahia
+ncbi-curated	MN604284	32780745	10172	SouthAmerica1	Brazil: Pedrao, Bahia
+ncbi-curated	MN604285	32780745	10172	SouthAmerica1	Brazil: Ichu, Bahia
+ncbi-curated	MN604286	32780745	10172	SouthAmerica1	Brazil: Salvador, Bahia
+ncbi-curated	MN604287	32780745	10166	SouthAmerica1	Brazil: Cordeiros, Bahia
+ncbi-curated	MN643083	-	10682	SouthAmerica1	Brazil: Teresopolis-RJ
+ncbi-curated	MN643085	-	10689	SouthAmerica1	Brazil: Ilha Grande-RJ
+ncbi-curated	MN708488	-	10862	WestAfrica	France
+ncbi-curated	MN708489	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708490	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708491	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708492	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708493	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708494	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708495	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708496	-	10862	WestAfrica	Belgium
+ncbi-curated	MN708497	-	10862	WestAfrica	Belgium
+ncbi-curated	MN737509	-	10862	WestAfrica	Brazil
+ncbi-curated	MN958078	32081931	10611	WestAfrica	Nigeria
+ncbi-curated	MT107250	-	10862	WestAfrica	Russia
+ncbi-curated	MT497520	-	10172	SouthAmerica1	Brazil: Sao Paulo, Potirendaba
+ncbi-curated	MT497521	-	10172	SouthAmerica1	Brazil: Sao Paulo, Pindorama
+ncbi-curated	MT497522	-	10172	SouthAmerica1	Brazil: Sao Paulo, Jaboticabal
+ncbi-curated	MT497523	-	10172	SouthAmerica1	Brazil: Sao Paulo, Catanduva
+ncbi-curated	MT497524	-	10172	SouthAmerica1	Brazil: Sao Paulo, Catigua
+ncbi-curated	MT497525	-	10172	SouthAmerica1	Brazil: Sao Paulo, Ribeirao Preto
+ncbi-curated	MT840700	-	10858	WestAfrica	-
+ncbi-curated	MT840701	-	10862	WestAfrica	-
+ncbi-curated	MT840702	-	10862	WestAfrica	-
+ncbi-curated	MT956628	-	10854	WestAfrica	-
+ncbi-curated	MT956629	-	10822	WestAfrica	-
+ncbi-curated	MT956630	-	10816	WestAfrica	-
+ncbi-curated	MW034590	-	10945	SouthAmerica1	Brazil
+ncbi-curated	MW158338	34204910	10780	-	Brazil
+ncbi-curated	MW158339	34204910	10742	-	Brazil
+ncbi-curated	MW158340	34204910	10780	-	Brazil
+ncbi-curated	MW158341	34204910	10618	SouthAmerica1	Brazil
+ncbi-curated	MW158342	34204910	10859	SouthAmerica1	Brazil
+ncbi-curated	MW158343	34204910	10667	SouthAmerica1	Brazil
+ncbi-curated	MW158344	34204910	10665	SouthAmerica1	Brazil
+ncbi-curated	MW158345	34204910	10660	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158346	34204910	10667	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158347	34204910	10666	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158348	34204910	10448	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158349	34204910	10673	SouthAmerica1	Venezuela
+ncbi-curated	MW158350	34204910	10659	SouthAmerica1	Venezuela
+ncbi-curated	MW158351	34204910	10671	SouthAmerica1	Venezuela
+ncbi-curated	MW158352	34204910	10763	SouthAmerica1	Venezuela
+ncbi-curated	MW158353	34204910	10677	SouthAmerica1	Venezuela
+ncbi-curated	MW158354	34204910	10705	SouthAmerica1	Venezuela
+ncbi-curated	MW158355	34204910	10675	SouthAmerica1	Venezuela
+ncbi-curated	MW158356	34204910	10668	SouthAmerica1	Venezuela
+ncbi-curated	MW158357	34204910	10660	SouthAmerica1	Venezuela
+ncbi-curated	MW158358	34204910	10376	WestAfrica	Peru
+ncbi-curated	MW158359	34204910	10668	SouthAmerica2	Peru
+ncbi-curated	MW158360	34204910	10845	WestAfrica	Peru
+ncbi-curated	MW158361	34204910	10665	SouthAmerica2	Peru
+ncbi-curated	MW158362	34204910	10735	WestAfrica	Ecuador
+ncbi-curated	MW158363	34204910	10838	WestAfrica	USA
+ncbi-curated	MW158364	34204910	10622	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158365	34204910	10668	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158366	34204910	10659	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW158367	34204910	10666	SouthAmerica1	Trinidad and Tobago: Trinidad
+ncbi-curated	MW249074	-	10715	WestAfrica	France
+ncbi-curated	MW249075	-	10715	WestAfrica	France
+ncbi-curated	MW249076	-	10715	WestAfrica	France
+ncbi-curated	MW249077	-	10717	WestAfrica	France
+ncbi-curated	MW249078	-	10727	WestAfrica	France
+ncbi-curated	MW249079	-	10715	WestAfrica	France
+ncbi-curated	MW249080	-	10862	WestAfrica	France
+ncbi-curated	MW249081	-	10714	WestAfrica	France
+ncbi-curated	MW249082	-	10714	WestAfrica	France
+ncbi-curated	MW249083	-	10715	WestAfrica	France
+ncbi-curated	MW249084	-	10715	WestAfrica	France
+ncbi-curated	MW249085	-	10714	WestAfrica	France
+ncbi-curated	MW249086	-	10715	WestAfrica	France
+ncbi-curated	MW249087	-	10727	WestAfrica	France
+ncbi-curated	MW249088	-	10715	WestAfrica	France
+ncbi-curated	MW249089	-	10714	WestAfrica	France
+ncbi-curated	MW249090	-	10714	WestAfrica	France
+ncbi-curated	MW249091	-	10714	WestAfrica	France
+ncbi-curated	MW249092	-	10715	WestAfrica	France
+ncbi-curated	MW249093	-	10716	WestAfrica	France
+ncbi-curated	MW249094	-	10715	WestAfrica	France
+ncbi-curated	MW249095	-	10715	WestAfrica	France
+ncbi-curated	MW308134	-	10955	SouthAmerica1	Brazil: Sao Paulo, Cunha
+ncbi-curated	MW308135	-	10963	SouthAmerica1	Brazil: Sao Paulo, Iporanga
+ncbi-curated	MW960207	36146820	10830	EastAfrica	Central African Republic
+ncbi-curated	MZ285906	-	10832	WestAfrica	Senegal
+ncbi-curated	MZ595182	34452343	10643	WestAfrica	Senegal
+ncbi-curated	MZ595183	34452343	10619	WestAfrica	Senegal
+ncbi-curated	MZ595184	34452343	10535	WestAfrica	Senegal
+ncbi-curated	MZ595185	34452343	10603	WestAfrica	Senegal
+ncbi-curated	MZ595186	34452343	10650	WestAfrica	Senegal
+ncbi-curated	MZ595187	34452343	10596	WestAfrica	Senegal
+ncbi-curated	MZ595188	34452343	10637	WestAfrica	Senegal
+ncbi-curated	MZ595189	34452343	10657	WestAfrica	Senegal
+ncbi-curated	MZ595190	34452343	10637	WestAfrica	Senegal
+ncbi-curated	MZ595191	34452343	10637	WestAfrica	Senegal
+ncbi-curated	MZ595192	34452343	10601	WestAfrica	Senegal
+ncbi-curated	MZ595193	34452343	10651	WestAfrica	Senegal
+ncbi-curated	MZ595194	34452343	10598	WestAfrica	Senegal
+ncbi-curated	MZ595195	34452343	10652	WestAfrica	Senegal
+ncbi-curated	MZ595196	34452343	10598	WestAfrica	Senegal
+ncbi-curated	MZ595197	34452343	10643	WestAfrica	Senegal
+ncbi-curated	MZ595198	34452343	10530	WestAfrica	Senegal
+ncbi-curated	MZ595199	34452343	10605	WestAfrica	Senegal
+ncbi-curated	MZ595203	-	10519	WestAfrica	Senegal
+ncbi-curated	MZ595204	-	10516	WestAfrica	Senegal
+ncbi-curated	MZ604838	-	10261	SouthAmerica1	Brazil
+ncbi-curated	MZ604839	-	10258	SouthAmerica1	Brazil
+ncbi-curated	MZ604840	-	10276	SouthAmerica1	Brazil
+ncbi-curated	MZ604841	-	10282	SouthAmerica1	Brazil
+ncbi-curated	MZ604842	-	10288	SouthAmerica1	Brazil
+ncbi-curated	MZ604843	-	10081	SouthAmerica1	Brazil
+ncbi-curated	MZ604844	-	10279	SouthAmerica1	Brazil
+ncbi-curated	MZ604845	-	10289	SouthAmerica1	Brazil
+ncbi-curated	MZ604846	-	10881	SouthAmerica1	Brazil
+ncbi-curated	MZ604847	-	10277	SouthAmerica1	Brazil
+ncbi-curated	MZ604848	-	10838	SouthAmerica1	Brazil
+ncbi-curated	MZ604849	-	10010	SouthAmerica1	Brazil
+ncbi-curated	MZ604850	-	10282	SouthAmerica1	Brazil
+ncbi-curated	MZ604851	-	10276	SouthAmerica1	Brazil
+ncbi-curated	MZ604852	-	10282	SouthAmerica1	Brazil
+ncbi-curated	MZ604853	-	10866	SouthAmerica1	Brazil
+ncbi-curated	MZ604854	-	10866	SouthAmerica1	Brazil
+ncbi-curated	MZ604855	-	10205	SouthAmerica1	Brazil
+ncbi-curated	MZ604856	-	10504	SouthAmerica1	Brazil
+ncbi-curated	MZ604857	-	10850	SouthAmerica1	Brazil
+ncbi-curated	MZ604858	-	10858	SouthAmerica1	Brazil
+ncbi-curated	MZ604859	-	10279	SouthAmerica1	Brazil
+ncbi-curated	MZ604860	-	10272	SouthAmerica1	Brazil
+ncbi-curated	MZ604861	-	10283	SouthAmerica1	Brazil
+ncbi-curated	MZ604862	-	10335	SouthAmerica1	Brazil
+ncbi-curated	MZ604863	-	10287	SouthAmerica1	Brazil
+ncbi-curated	MZ604864	-	10849	SouthAmerica1	Brazil
+ncbi-curated	MZ604865	-	10836	SouthAmerica1	Brazil
+ncbi-curated	MZ604866	-	10836	SouthAmerica1	Brazil
+ncbi-curated	MZ604867	-	10854	SouthAmerica1	Brazil
+ncbi-curated	MZ604868	-	10377	SouthAmerica1	Brazil
+ncbi-curated	MZ604869	-	10279	SouthAmerica1	Brazil
+ncbi-curated	MZ604870	-	10274	SouthAmerica1	Brazil
+ncbi-curated	MZ604871	-	10864	SouthAmerica1	Brazil
+ncbi-curated	MZ604872	-	9813	SouthAmerica1	Brazil
+ncbi-curated	MZ604873	-	10185	SouthAmerica1	Brazil
+ncbi-curated	MZ604874	-	10283	SouthAmerica1	Brazil
+ncbi-curated	MZ604875	-	10279	SouthAmerica1	Brazil
+ncbi-curated	MZ604876	-	10306	SouthAmerica1	Brazil
+ncbi-curated	MZ712127	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712128	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712129	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712130	34696408	9473	SouthAmerica1	Brazil
+ncbi-curated	MZ712131	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712132	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712133	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712134	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712135	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712136	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712137	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712138	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712139	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712140	34696408	10164	SouthAmerica1	Brazil
+ncbi-curated	MZ712141	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712142	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712143	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712144	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712145	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712146	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712147	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712148	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	MZ712149	34696408	10172	SouthAmerica1	Brazil
+ncbi-curated	OF120366	-	10862	WestAfrica	-
+ncbi-curated	OF120367	-	10862	WestAfrica	-
+ncbi-curated	OF120368	-	10862	WestAfrica	-
+ncbi-curated	OF120369	-	10862	WestAfrica	-
+ncbi-curated	OF120370	-	10862	WestAfrica	-
+ncbi-curated	OF120371	-	10833	WestAfrica	-
+ncbi-curated	OF120372	-	10862	WestAfrica	-
+ncbi-curated	OF120373	-	10862	WestAfrica	-
+ncbi-curated	OK573009	-	10635	WestAfrica	USA: MD
+ncbi-curated	OL519587	-	10172	SouthAmerica1	Brazil
+ncbi-curated	OL519588	-	10172	SouthAmerica1	Brazil
+ncbi-curated	OL519589	-	10172	SouthAmerica1	Brazil
+ncbi-curated	OM066735	-	10478	WestAfrica	Ghana: Damongo
+ncbi-curated	OM066736	-	10767	WestAfrica	Ghana: Daboya
+ncbi-curated	OM066737	-	10825	WestAfrica	Ghana: Damongo
+ncbi-curated	OM938988	36028455	10862	WestAfrica	France
+ncbi-curated	OM938989	36028455	10862	WestAfrica	France
+ncbi-curated	OM938990	36028455	10862	WestAfrica	France
+ncbi-curated	ON022238	-	10233	SouthAmerica1	Brazil: ES, Pancas [IBGE7 3204005]
+ncbi-curated	ON022239	-	10169	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022240	-	10169	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022241	-	9763	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022242	-	10169	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022243	-	10169	SouthAmerica1	Brazil: MG, Piranga [IBGE7 3150802]
+ncbi-curated	ON022244	-	10169	SouthAmerica1	Brazil: MG, Ponte Nova [IBGE7 3152105]
+ncbi-curated	ON022245	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022246	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022247	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022248	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022249	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022250	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022251	-	10169	SouthAmerica1	Brazil: MG, Itabirito [IBGE7 3131901]
+ncbi-curated	ON022252	-	10169	SouthAmerica1	Brazil: MG, Itatiaiucu [IBGE7 3133709]
+ncbi-curated	ON022253	-	10132	SouthAmerica1	Brazil: MG, Brumadinho [IBGE7 3109006]
+ncbi-curated	ON022254	-	10169	SouthAmerica1	Brazil: MG, Brumadinho [IBGE7 3109006]
+ncbi-curated	ON022255	-	10169	SouthAmerica1	Brazil: MG, Brumadinho [IBGE7 3109006]
+ncbi-curated	ON022256	-	9823	SouthAmerica1	Brazil: MG, Rio Acima [IBGE7 3154804]
+ncbi-curated	ON022257	-	10169	SouthAmerica1	Brazil: MG, Nova Lima [IBGE7 3144805]
+ncbi-curated	ON022258	-	10169	SouthAmerica1	Brazil: MG, Nova Lima [IBGE7 3144805]
+ncbi-curated	ON022259	-	10169	SouthAmerica1	Brazil: MG, Nova Lima [IBGE7 3144805]
+ncbi-curated	ON022260	-	10169	SouthAmerica1	Brazil: MG, Nova Lima [IBGE7 3144805]
+ncbi-curated	ON022261	-	10169	SouthAmerica1	Brazil: MG, Nova Lima [IBGE7 3144805]
+ncbi-curated	ON022262	-	10169	SouthAmerica1	Brazil: MG, Santa Barbara [IBGE7 3157203]
+ncbi-curated	ON022263	-	10169	SouthAmerica1	Brazil: MG, Belo Horizonte [IBGE7 3106200]
+ncbi-curated	ON022264	-	10169	SouthAmerica1	Brazil: MG, Belmiro Braga [IBGE7 3106101]
+ncbi-curated	ON022265	-	10169	SouthAmerica1	Brazil: MG, Brumadinho [IBGE7 3109006]
+ncbi-curated	ON022266	-	10169	SouthAmerica1	Brazil: MG, Caete [IBGE7 3110004]
+ncbi-curated	ON022267	-	10169	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022268	-	10169	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022269	-	10169	SouthAmerica1	Brazil: RJ, Nova Iguacu [IBGE7 3303500]
+ncbi-curated	ON022270	-	10169	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022271	-	10169	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022272	-	9763	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022273	-	10169	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022274	-	10169	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022275	-	10169	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022276	-	10169	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022277	-	10169	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022278	-	10169	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022279	-	9763	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022280	-	10169	SouthAmerica1	Brazil: RJ, Sumidouro [IBGE7 3305703]
+ncbi-curated	ON022281	-	10169	SouthAmerica1	Brazil: RJ, Sumidouro [IBGE7 3305703]
+ncbi-curated	ON022282	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022283	-	10172	SouthAmerica1	Brazil: SP, Aguas De Lindoia [IBGE7 3500501]
+ncbi-curated	ON022284	-	10172	SouthAmerica1	Brazil: SP, Atibaia [IBGE7 3504107]
+ncbi-curated	ON022285	-	10172	SouthAmerica1	Brazil: SP, Bananal [IBGE7 3504909]
+ncbi-curated	ON022286	-	10172	SouthAmerica1	Brazil: SP, Cacapava [IBGE7 3508504]
+ncbi-curated	ON022287	-	10172	SouthAmerica1	Brazil: SP, Caraguatatuba [IBGE7 3510500]
+ncbi-curated	ON022288	-	10183	SouthAmerica1	Brazil: SP, Catanduva [IBGE7 3511102]
+ncbi-curated	ON022289	-	10172	SouthAmerica1	Brazil: SP, Igarata [IBGE7 3520202]
+ncbi-curated	ON022290	-	10172	SouthAmerica1	Brazil: SP, Igarata [IBGE7 3520202]
+ncbi-curated	ON022291	-	10172	SouthAmerica1	Brazil: SP, Igarata [IBGE7 3520202]
+ncbi-curated	ON022292	-	10172	SouthAmerica1	Brazil: SP, Itapetininga [IBGE7 3522307]
+ncbi-curated	ON022293	-	10172	SouthAmerica1	Brazil: SP, Jacarei [IBGE7 3524402]
+ncbi-curated	ON022294	-	10172	SouthAmerica1	Brazil: SP, Jacarei [IBGE7 3524402]
+ncbi-curated	ON022295	-	10172	SouthAmerica1	Brazil: SP, Jarinu [IBGE7 3525201]
+ncbi-curated	ON022296	-	10172	SouthAmerica1	Brazil: SP, Juquia [IBGE7 3526100]
+ncbi-curated	ON022297	-	10172	SouthAmerica1	Brazil: SP, Nazare Paulista [IBGE7 3532405]
+ncbi-curated	ON022298	-	10172	SouthAmerica1	Brazil: SP, Peruibe [IBGE7 3537602]
+ncbi-curated	ON022299	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022300	-	10122	SouthAmerica1	Brazil: SP, Ribeirao Preto [IBGE7 3543402]
+ncbi-curated	ON022301	-	10130	SouthAmerica1	Brazil: SP, Ribeirao Preto [IBGE7 3543402]
+ncbi-curated	ON022302	-	10233	SouthAmerica1	Brazil: SP, Ribeirao Preto [IBGE7 3543402]
+ncbi-curated	ON022303	-	10096	SouthAmerica1	Brazil: SP, Ribeirao Preto [IBGE7 3543402]
+ncbi-curated	ON022304	-	10172	SouthAmerica1	Brazil: SP, Sao Jose Dos Campos [IBGE7 3549904]
+ncbi-curated	ON022305	-	10172	SouthAmerica1	Brazil: SP, Sao Jose Dos Campos [IBGE7 3549904]
+ncbi-curated	ON022306	-	10172	SouthAmerica1	Brazil: SP, Sao Miguel Arcanjo [IBGE7 3550209]
+ncbi-curated	ON022307	-	10172	SouthAmerica1	Brazil: SP, Sao Sebastiao [IBGE7 3550704]
+ncbi-curated	ON022308	-	10172	SouthAmerica1	Brazil: SP, Sao Sebastiao [IBGE7 3550704]
+ncbi-curated	ON022309	-	10172	SouthAmerica1	Brazil: SP, Sao Sebastiao [IBGE7 3550704]
+ncbi-curated	ON022310	-	10172	SouthAmerica1	Brazil: SP, Sorocaba [IBGE7 3552205]
+ncbi-curated	ON022311	-	10228	SouthAmerica1	Brazil: SP, Tabapua [IBGE7 3552601]
+ncbi-curated	ON022312	-	10172	SouthAmerica1	Brazil: SP, Taubate [IBGE7 3554102]
+ncbi-curated	ON022313	-	10172	SouthAmerica1	Brazil: SP, Ubatuba [IBGE7 3555406]
+ncbi-curated	ON022314	-	10172	SouthAmerica1	Brazil: SP, Valinhos [IBGE7 3556206]
+ncbi-curated	ON022315	-	10172	SouthAmerica1	Brazil: SP, Vinhedo [IBGE7 3556701]
+ncbi-curated	ON022316	-	10172	SouthAmerica1	Brazil: SP, Guarulhos [IBGE7 3518800]
+ncbi-curated	ON022317	-	10172	SouthAmerica1	Brazil: SP, Carapicuiba [IBGE7 3510609]
+ncbi-curated	ON022318	-	10172	SouthAmerica1	Brazil: SP, Ibiuna [IBGE7 3519709]
+ncbi-curated	ON022319	-	10172	SouthAmerica1	Brazil: SP, Iguape [IBGE7 3520301]
+ncbi-curated	ON022320	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022321	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022322	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022323	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022324	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022325	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022326	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022327	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022328	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022329	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022330	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022331	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022332	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022333	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022334	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022335	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022336	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022337	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022338	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022339	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022340	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022341	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022342	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022343	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022344	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022345	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022346	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022347	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022348	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022349	-	10172	SouthAmerica1	Brazil: SP, Guarulhos [IBGE7 3518800]
+ncbi-curated	ON022350	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022351	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022352	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022353	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022354	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022355	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022356	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022357	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022358	-	10172	SouthAmerica1	Brazil: SP, Sao Lourenco Da Serra [IBGE7 3549953]
+ncbi-curated	ON022359	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022360	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022361	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022362	-	9478	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022363	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022364	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022365	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022366	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022367	-	10172	SouthAmerica1	Brazil: SP, Iporanga [IBGE7 3521200]
+ncbi-curated	ON022368	-	10172	SouthAmerica1	Brazil: SP, Itapeva [IBGE7 3522406]
+ncbi-curated	ON022369	-	10172	SouthAmerica1	Brazil: SP, Barra Do Chapeu [IBGE7 3505351]
+ncbi-curated	ON022370	-	10172	SouthAmerica1	Brazil
+ncbi-curated	ON022371	-	10172	SouthAmerica1	Brazil: MG, Sao Joao Del Rei [IBGE7 3162500]
+ncbi-curated	ON022372	-	10172	SouthAmerica1	Brazil: MG, Entre Rios De Minas [IBGE7 3123908]
+ncbi-curated	ON022373	-	10172	SouthAmerica1	Brazil: MG, Esmeraldas [IBGE7 3124104]
+ncbi-curated	ON022374	-	10172	SouthAmerica1	Brazil: MG, Senador Jose Bento [IBGE7 3165800]
+ncbi-curated	ON022375	-	10172	SouthAmerica1	Brazil: MG, Alvorada De Minas [IBGE7 3102407]
+ncbi-curated	ON022376	-	10172	SouthAmerica1	Brazil: MG, Conceicao Do Rio Verde [IBGE7 3117702]
+ncbi-curated	ON022377	-	10172	SouthAmerica1	Brazil: MG, Bras Pires [IBGE7 3108701]
+ncbi-curated	ON022378	-	10172	SouthAmerica1	Brazil: MG, Extrema [IBGE7 3125101]
+ncbi-curated	ON022379	-	10172	SouthAmerica1	Brazil: MG, Ferros [IBGE7 3125903]
+ncbi-curated	ON022380	-	10172	SouthAmerica1	Brazil: MG, Alvinopolis [IBGE7 3102308]
+ncbi-curated	ON022381	-	10172	SouthAmerica1	Brazil: MG, Congonhal [IBGE7 3117900]
+ncbi-curated	ON022382	-	10172	SouthAmerica1	Brazil: MG, Alem Paraiba [IBGE7 3101508]
+ncbi-curated	ON022383	-	10172	SouthAmerica1	Brazil: MG, Santo Antonio Do Grama [IBGE7 3160108]
+ncbi-curated	ON022384	-	10172	SouthAmerica1	Brazil: MG, Santa Maria De Itabira [IBGE7 3158003]
+ncbi-curated	ON022385	-	10172	SouthAmerica1	Brazil: MG, Nova Lima [IBGE7 3144805]
+ncbi-curated	ON022386	-	10172	SouthAmerica1	Brazil: MG, Congonhal [IBGE7 3117900]
+ncbi-curated	ON022387	-	10172	SouthAmerica1	Brazil: MG, Matias Barbosa [IBGE7 3140803]
+ncbi-curated	ON022388	-	10172	SouthAmerica1	Brazil: MG, Braunas [IBGE7 3108800]
+ncbi-curated	ON022389	-	10172	SouthAmerica1	Brazil: MG, Igaratinga [IBGE7 3130200]
+ncbi-curated	ON022390	-	10172	SouthAmerica1	Brazil: MG, Congonhal [IBGE7 3117900]
+ncbi-curated	ON022391	-	10172	SouthAmerica1	Brazil: MG, Madre De Deus De Minas [IBGE7 3139102]
+ncbi-curated	ON022392	-	10172	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022393	-	10172	SouthAmerica1	Brazil: MG, Mariana [IBGE7 3140001]
+ncbi-curated	ON022394	-	10172	SouthAmerica1	Brazil: MG, Tiradentes [IBGE7 3168804]
+ncbi-curated	ON022395	-	10156	SouthAmerica1	Brazil: MG, Carmopolis De Minas [IBGE7 3114501]
+ncbi-curated	ON022396	-	10172	SouthAmerica1	Brazil: MG, Itapecerica [IBGE7 3133501]
+ncbi-curated	ON022397	-	10172	SouthAmerica1	Brazil: MG, Santana Do Deserto [IBGE7 3158607]
+ncbi-curated	ON022398	-	10172	SouthAmerica1	Brazil: MG, Alem Paraiba [IBGE7 3101508]
+ncbi-curated	ON022399	-	10172	SouthAmerica1	Brazil: MG, Fervedouro [IBGE7 3125952]
+ncbi-curated	ON022400	-	9884	SouthAmerica1	Brazil: MG, Carmo Do Rio Claro [IBGE7 3114402]
+ncbi-curated	ON022401	-	10172	SouthAmerica1	Brazil: MG, Ilicinea [IBGE7 3130507]
+ncbi-curated	ON022402	-	10172	SouthAmerica1	Brazil: MG, Casa Grande [IBGE7 3114907]
+ncbi-curated	ON022403	-	10172	SouthAmerica1	Brazil: MG, Congonhas [IBGE7 3118007]
+ncbi-curated	ON022404	-	10172	SouthAmerica1	Brazil: MG, Madre De Deus De Minas [IBGE7 3139102]
+ncbi-curated	ON022405	-	10172	SouthAmerica1	Brazil: MG, Sabara [IBGE7 3156700]
+ncbi-curated	ON022406	-	10172	SouthAmerica1	Brazil: MG, Santana Do Deserto [IBGE7 3158607]
+ncbi-curated	ON022407	-	10172	SouthAmerica1	Brazil: MG, Sao Joao Da Mata [IBGE7 3162302]
+ncbi-curated	ON022408	-	10172	SouthAmerica1	Brazil: MG, Senador Amaral [IBGE7 3165578]
+ncbi-curated	ON022409	-	10172	SouthAmerica1	Brazil: MG, Rio Doce [IBGE7 3155009]
+ncbi-curated	ON022410	-	10172	SouthAmerica1	Brazil: MG, Sao Tiago [IBGE7 3165008]
+ncbi-curated	ON022411	-	10172	SouthAmerica1	Brazil: MG, Belo Horizonte [IBGE7 3106200]
+ncbi-curated	ON022412	-	10172	SouthAmerica1	Brazil: MG, Sao Joao Del Rei [IBGE7 3162500]
+ncbi-curated	ON022413	-	10172	SouthAmerica1	Brazil: MG, Mar De Espanha [IBGE7 3139805]
+ncbi-curated	ON022414	-	10172	SouthAmerica1	Brazil: MG, Congonhal [IBGE7 3117900]
+ncbi-curated	ON022415	-	10172	SouthAmerica1	Brazil: MG, Santa Maria De Itabira [IBGE7 3158003]
+ncbi-curated	ON022416	-	10172	SouthAmerica1	Brazil: MG, Rio Doce [IBGE7 3155009]
+ncbi-curated	ON022417	-	10172	SouthAmerica1	Brazil: MG, Caete [IBGE7 3110004]
+ncbi-curated	ON022418	-	10172	SouthAmerica1	Brazil: MG, Ilicinea [IBGE7 3130507]
+ncbi-curated	ON022419	-	10172	SouthAmerica1	Brazil: MG, Casa Grande [IBGE7 3114907]
+ncbi-curated	ON022420	-	10172	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022421	-	10172	SouthAmerica1	Brazil: MG, Senador Amaral [IBGE7 3165578]
+ncbi-curated	ON022422	-	10172	SouthAmerica1	Brazil: MG, Taquaracu De Minas [IBGE7 3168309]
+ncbi-curated	ON022423	-	10172	SouthAmerica1	Brazil: MG, Belo Horizonte [IBGE7 3106200]
+ncbi-curated	ON022424	-	10172	SouthAmerica1	Brazil: MG, Piau [IBGE7 3150109]
+ncbi-curated	ON022425	-	10172	SouthAmerica1	Brazil: MG, Sabara [IBGE7 3156700]
+ncbi-curated	ON022426	-	10172	SouthAmerica1	Brazil: MG, Andradas [IBGE7 3102605]
+ncbi-curated	ON022427	-	10172	SouthAmerica1	Brazil: MG, Simao Pereira [IBGE7 3167509]
+ncbi-curated	ON022428	-	10172	SouthAmerica1	Brazil: MG, Itabira [IBGE7 3131703]
+ncbi-curated	ON022429	-	10172	SouthAmerica1	Brazil: MG, Congonhal [IBGE7 3117900]
+ncbi-curated	ON022430	-	10172	SouthAmerica1	Brazil: MG, Marlieria [IBGE7 3140308]
+ncbi-curated	ON022431	-	10172	SouthAmerica1	Brazil: MG, Belo Horizonte [IBGE7 3106200]
+ncbi-curated	ON022432	-	10172	SouthAmerica1	Brazil: MG, Santo Antonio Do Aventureiro [IBGE7 3160009]
+ncbi-curated	ON022433	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022434	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022435	-	10172	SouthAmerica1	Brazil: RJ, Miguel Pereira [IBGE7 3302908]
+ncbi-curated	ON022436	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022437	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022438	-	10172	SouthAmerica1	Brazil: RJ, Volta Redonda [IBGE7 3306305]
+ncbi-curated	ON022439	-	10172	SouthAmerica1	Brazil: RJ, Carmo [IBGE7 3301207]
+ncbi-curated	ON022440	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022441	-	10172	SouthAmerica1	Brazil: RJ, Itatiaia [IBGE7 3302254]
+ncbi-curated	ON022442	-	10172	SouthAmerica1	Brazil: RJ, Cachoeiras De Macacu [IBGE7 3300803]
+ncbi-curated	ON022443	-	10172	SouthAmerica1	Brazil: RJ, Macuco [IBGE7 3302452]
+ncbi-curated	ON022444	-	10172	SouthAmerica1	Brazil: ES, Serra [IBGE7 3205002]
+ncbi-curated	ON022445	-	10172	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022446	-	10172	SouthAmerica1	Brazil: ES, Santa Leopoldina [IBGE7 3204500]
+ncbi-curated	ON022447	-	10172	SouthAmerica1	Brazil: ES, Santa Leopoldina [IBGE7 3204500]
+ncbi-curated	ON022448	-	10172	SouthAmerica1	Brazil: RJ, Itatiaia [IBGE7 3302254]
+ncbi-curated	ON022449	-	10172	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022450	-	10172	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022451	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022452	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022453	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022454	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022455	-	10172	SouthAmerica1	Brazil: RJ, Santa Maria Madalena [IBGE7 3304607]
+ncbi-curated	ON022456	-	10172	SouthAmerica1	Brazil: ES, Itarana [IBGE7 3202900]
+ncbi-curated	ON022457	-	10172	SouthAmerica1	Brazil: RJ, Cachoeiras De Macacu [IBGE7 3300803]
+ncbi-curated	ON022458	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022459	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022460	-	10172	SouthAmerica1	Brazil: RJ, Carmo [IBGE7 3301207]
+ncbi-curated	ON022461	-	10172	SouthAmerica1	Brazil: ES, Santa Teresa [IBGE7 3204609]
+ncbi-curated	ON022462	-	10172	SouthAmerica1	Brazil: RJ, Volta Redonda [IBGE7 3306305]
+ncbi-curated	ON022463	-	10172	SouthAmerica1	Brazil: RJ, Marica [IBGE7 3302700]
+ncbi-curated	ON022464	-	10172	SouthAmerica1	Brazil: ES, Santa Teresa [IBGE7 3204609]
+ncbi-curated	ON022465	-	10172	SouthAmerica1	Brazil: RJ, Vassouras [IBGE7 3306206]
+ncbi-curated	ON022466	-	10172	SouthAmerica1	Brazil: RJ, Macuco [IBGE7 3302452]
+ncbi-curated	ON022467	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022468	-	9884	SouthAmerica1	Brazil: ES, Aracruz [IBGE7 3200607]
+ncbi-curated	ON022469	-	9884	SouthAmerica1	Brazil: RJ, Niteroi [IBGE7 3303302]
+ncbi-curated	ON022470	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022471	-	10172	SouthAmerica1	Brazil: RJ, Cantagalo [IBGE7 3301108]
+ncbi-curated	ON022472	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022473	-	10172	SouthAmerica1	Brazil: RJ, Bom Jardim [IBGE7 3300506]
+ncbi-curated	ON022474	-	10172	SouthAmerica1	Brazil: MG, Juiz De Fora [IBGE7 3136702]
+ncbi-curated	ON022475	-	10172	SouthAmerica1	Brazil: RJ, Barra Mansa [IBGE7 3300407]
+ncbi-curated	ON022476	-	10172	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022477	-	10172	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022478	-	10172	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022479	-	10172	SouthAmerica1	Brazil: RJ, Sumidouro [IBGE7 3305703]
+ncbi-curated	ON022480	-	9884	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022481	-	10172	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022482	-	10172	SouthAmerica1	Brazil: RJ, Bom Jardim [IBGE7 3300506]
+ncbi-curated	ON022483	-	10172	SouthAmerica1	Brazil: RJ, Nova Friburgo [IBGE7 3303401]
+ncbi-curated	ON022484	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022485	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022486	-	10172	SouthAmerica1	Brazil: RJ, Niteroi [IBGE7 3303302]
+ncbi-curated	ON022487	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022488	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022489	-	10172	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022490	-	9884	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022491	-	10172	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022492	-	10172	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022493	-	9884	SouthAmerica1	Brazil: RJ, Cachoeiras De Macacu [IBGE7 3300803]
+ncbi-curated	ON022494	-	9884	SouthAmerica1	Brazil: RJ, Nova Friburgo [IBGE7 3303401]
+ncbi-curated	ON022495	-	9884	SouthAmerica1	Brazil: RS, Sao Leopoldo [IBGE7 4318705]
+ncbi-curated	ON022496	-	10172	SouthAmerica1	Brazil: ES, Cariacica [IBGE7 3201308]
+ncbi-curated	ON022497	-	9884	SouthAmerica1	Brazil: RJ, Italva [IBGE7 3302056]
+ncbi-curated	ON022498	-	9884	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022499	-	10172	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022500	-	10172	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022501	-	10172	SouthAmerica1	Brazil: RJ, Cachoeiras De Macacu [IBGE7 3300803]
+ncbi-curated	ON022502	-	10172	SouthAmerica1	Brazil: RJ, Trajano De Moraes [IBGE7 3305901]
+ncbi-curated	ON022503	-	10172	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022504	-	10172	SouthAmerica1	Brazil: ES, Viana [IBGE7 3205101]
+ncbi-curated	ON022505	-	10172	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022506	-	9884	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022507	-	9884	SouthAmerica1	Brazil: RJ, Rio Das Flores [IBGE7 3304508]
+ncbi-curated	ON022508	-	9884	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022509	-	10172	SouthAmerica1	Brazil: RJ, Cantagalo [IBGE7 3301108]
+ncbi-curated	ON022510	-	10172	SouthAmerica1	Brazil: ES, Vitoria [IBGE7 3205309]
+ncbi-curated	ON022511	-	10172	SouthAmerica1	Brazil: RJ, Nova Friburgo [IBGE7 3303401]
+ncbi-curated	ON022512	-	9884	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022513	-	9884	SouthAmerica1	Brazil: RJ, Duas Barras [IBGE7 3301603]
+ncbi-curated	ON022514	-	10172	SouthAmerica1	Brazil: RJ, Valenca [IBGE7 3306107]
+ncbi-curated	ON022515	-	9884	SouthAmerica1	Brazil: RJ, Niteroi [IBGE7 3303302]
+ncbi-curated	ON022516	-	10172	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022517	-	9884	SouthAmerica1	Brazil: RJ, Volta Redonda [IBGE7 3306305]
+ncbi-curated	ON022518	-	9884	SouthAmerica1	Brazil: ES, Serra [IBGE7 3205002]
+ncbi-curated	ON022519	-	9884	SouthAmerica1	Brazil: RJ, Itaperuna [IBGE7 3302205]
+ncbi-curated	ON022520	-	10172	SouthAmerica1	Brazil: ES, Santa Maria De Jetiba [IBGE7 3204559]
+ncbi-curated	ON022521	-	9884	SouthAmerica1	Brazil: RJ, Silva Jardim [IBGE7 3305604]
+ncbi-curated	ON022522	-	10172	SouthAmerica1	Brazil: RJ, Macae [IBGE7 3302403]
+ncbi-curated	ON022523	-	10172	SouthAmerica1	Brazil: ES, Muniz Freira [IBGE7 3203700]
+ncbi-curated	ON022524	-	10172	SouthAmerica1	Brazil: ES, Laranja Da Terra [IBGE7 3203163]
+ncbi-curated	ON022525	-	10172	SouthAmerica1	Brazil: ES, Conceicao Do Castelo [IBGE7 3201704]
+ncbi-curated	ON022526	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022527	-	10172	SouthAmerica1	Brazil: ES, Iuna [IBGE7 3203007]
+ncbi-curated	ON022528	-	10172	SouthAmerica1	Brazil: ES, Cachoeiro De Itapemirim [IBGE7 3201209]
+ncbi-curated	ON022529	-	10172	SouthAmerica1	Brazil: ES, Venda Nova Do Imigrante [IBGE7 3205069]
+ncbi-curated	ON022530	-	10172	SouthAmerica1	Brazil: ES, Santa Leopoldina [IBGE7 3204500]
+ncbi-curated	ON022531	-	10172	SouthAmerica1	Brazil: ES, Brejetuba [IBGE7 3201159]
+ncbi-curated	ON022532	-	10172	SouthAmerica1	Brazil: ES, Ibatiba [IBGE7 3202454]
+ncbi-curated	ON022533	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022534	-	10172	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022535	-	10172	SouthAmerica1	Brazil: ES, Ibatiba [IBGE7 3202454]
+ncbi-curated	ON022536	-	10172	SouthAmerica1	Brazil: ES, Ibatiba [IBGE7 3202454]
+ncbi-curated	ON022537	-	10172	SouthAmerica1	Brazil: ES, Vitoria [IBGE7 3205309]
+ncbi-curated	ON022538	-	10172	SouthAmerica1	Brazil: ES, Baixo Guandu [IBGE7 3200805]
+ncbi-curated	ON022539	-	10172	SouthAmerica1	Brazil: ES, Aracruz [IBGE7 3200607]
+ncbi-curated	ON022540	-	10172	SouthAmerica1	Brazil: SP, Carapicuiba [IBGE7 3510609]
+ncbi-curated	ON022541	-	10172	SouthAmerica1	Brazil: SP, Sao Bento Do Sapucai [IBGE7 3548609]
+ncbi-curated	ON022542	-	10172	SouthAmerica1	Brazil: SP, Guarulhos [IBGE7 3518800]
+ncbi-curated	ON022543	-	10172	SouthAmerica1	Brazil: SP, Ubatuba [IBGE7 3555406]
+ncbi-curated	ON022544	-	10172	SouthAmerica1	Brazil: SP, Ubatuba [IBGE7 3555406]
+ncbi-curated	ON022545	-	10172	SouthAmerica1	Brazil: SP, Eldorado [IBGE7 3514809]
+ncbi-curated	ON022546	-	10172	SouthAmerica1	Brazil: SP, Eldorado [IBGE7 3514809]
+ncbi-curated	ON022547	-	10172	SouthAmerica1	Brazil: SP, Eldorado [IBGE7 3514809]
+ncbi-curated	ON022548	-	10172	SouthAmerica1	Brazil: SP, Cananeia [IBGE7 3509908]
+ncbi-curated	ON022549	-	9884	SouthAmerica1	Brazil: SP, Cajati [IBGE7 3509254]
+ncbi-curated	ON022550	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022551	-	10172	SouthAmerica1	Brazil: SP, Registro [IBGE7 3542602]
+ncbi-curated	ON022552	-	10172	SouthAmerica1	Brazil: SP, Barra Do Turvo [IBGE7 3505401]
+ncbi-curated	ON022553	-	10172	SouthAmerica1	Brazil
+ncbi-curated	ON022554	-	10172	SouthAmerica1	Brazil: SP, Piracaia [IBGE7 3538600]
+ncbi-curated	ON022555	-	10172	SouthAmerica1	Brazil: SP, Osasco [IBGE7 3534401]
+ncbi-curated	ON022556	-	10172	SouthAmerica1	Brazil: SP, Eldorado [IBGE7 3514809]
+ncbi-curated	ON022557	-	10172	SouthAmerica1	Brazil: SP, Eldorado [IBGE7 3514809]
+ncbi-curated	ON022558	-	10172	SouthAmerica1	Brazil: SP, Iporanga [IBGE7 3521200]
+ncbi-curated	ON022559	-	10172	SouthAmerica1	Brazil: SP, Cajati [IBGE7 3509254]
+ncbi-curated	ON022560	-	10172	SouthAmerica1	Brazil: SP, Barra Do Turvo [IBGE7 3505401]
+ncbi-curated	ON022561	-	10172	SouthAmerica1	Brazil: SP, Barra Do Turvo [IBGE7 3505401]
+ncbi-curated	ON022562	-	10172	SouthAmerica1	Brazil: SP, Barra Do Turvo [IBGE7 3505401]
+ncbi-curated	ON022563	-	10172	SouthAmerica1	Brazil: SP, Iporanga [IBGE7 3521200]
+ncbi-curated	ON022564	-	10172	SouthAmerica1	Brazil
+ncbi-curated	ON022565	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022566	-	10172	SouthAmerica1	Brazil: SP, Vargem Grande Paulista [IBGE7 3556453]
+ncbi-curated	ON022567	-	10172	SouthAmerica1	Brazil: SP, Vargem Grande Paulista [IBGE7 3556453]
+ncbi-curated	ON022568	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022569	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022570	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022571	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022572	-	10172	SouthAmerica1	Brazil: SP, Sarapui [IBGE7 3551108]
+ncbi-curated	ON022573	-	10172	SouthAmerica1	Brazil: SP, Campinas [IBGE7 3509502]
+ncbi-curated	ON022574	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022575	-	10172	SouthAmerica1	Brazil: SP, Monte Alegre Do Sul [IBGE7 3531209]
+ncbi-curated	ON022576	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022577	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022578	-	10172	SouthAmerica1	Brazil: SP, Monte Alegre Do Sul [IBGE7 3531209]
+ncbi-curated	ON022579	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022580	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022581	-	10172	SouthAmerica1	Brazil: SP, Ribeirao Preto [IBGE7 3543402]
+ncbi-curated	ON022582	-	10172	SouthAmerica1	Brazil: SP, Aguas Da Prata [IBGE7 3500402]
+ncbi-curated	ON022583	-	10172	SouthAmerica1	Brazil: SP, Sao Sebastiao [IBGE7 3550704]
+ncbi-curated	ON022584	-	10172	SouthAmerica1	Brazil: SP, Pindamonhangaba [IBGE7 3538006]
+ncbi-curated	ON022585	-	10172	SouthAmerica1	Brazil: SP, Campos Do Jordao [IBGE7 3509700]
+ncbi-curated	ON022586	-	10172	SouthAmerica1	Brazil: SP, Jacarei [IBGE7 3524402]
+ncbi-curated	ON022587	-	10172	SouthAmerica1	Brazil: SP, Igarata [IBGE7 3520202]
+ncbi-curated	ON022588	-	10172	SouthAmerica1	Brazil: SP, Tapirai [IBGE7 3553500]
+ncbi-curated	ON022589	-	10172	SouthAmerica1	Brazil: SP, Sao Jose Dos Campos [IBGE7 3549904]
+ncbi-curated	ON022590	-	10172	SouthAmerica1	Brazil: SP, Tapirai [IBGE7 3553500]
+ncbi-curated	ON022591	-	10172	SouthAmerica1	Brazil: SP, Sao Jose Dos Campos [IBGE7 3549904]
+ncbi-curated	ON022592	-	10172	SouthAmerica1	Brazil: SP, Pilaro Do Sul [IBGE7 3537909]
+ncbi-curated	ON022593	-	10172	SouthAmerica1	Brazil: SP, Taubate [IBGE7 3554102]
+ncbi-curated	ON022594	-	10172	SouthAmerica1	Brazil: SP, Salto De Pirapora [IBGE7 3545308]
+ncbi-curated	ON022595	-	10172	SouthAmerica1	Brazil: SP, Sao Sebastiao [IBGE7 3550704]
+ncbi-curated	ON022596	-	10172	SouthAmerica1	Brazil: SP, Vinhedo [IBGE7 3556701]
+ncbi-curated	ON022597	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022598	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022599	-	10172	SouthAmerica1	Brazil: SP, Tambau [IBGE7 3553302]
+ncbi-curated	ON022600	-	10172	SouthAmerica1	Brazil: SP, Jaboticabal [IBGE7 3524303]
+ncbi-curated	ON022601	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022602	-	10172	SouthAmerica1	Brazil: SP, Sarapui [IBGE7 3551108]
+ncbi-curated	ON022603	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022604	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022605	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022606	-	10172	SouthAmerica1	Brazil: SP, Tuiuti [IBGE7 3554953]
+ncbi-curated	ON022607	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022608	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022609	-	10172	SouthAmerica1	Brazil: SP, Sao Roque [IBGE7 3550605]
+ncbi-curated	ON022610	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022611	-	10172	SouthAmerica1	Brazil: SP, Tuiuti [IBGE7 3554953]
+ncbi-curated	ON022612	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022613	-	10172	SouthAmerica1	Brazil: SP, Vinhedo [IBGE7 3556701]
+ncbi-curated	ON022614	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022615	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022616	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022617	-	10172	SouthAmerica1	Brazil: SP, Pedra Bela [IBGE7 3536802]
+ncbi-curated	ON022618	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022619	-	10172	SouthAmerica1	Brazil: SP, Piracaia [IBGE7 3538600]
+ncbi-curated	ON022620	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022621	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022622	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022623	-	10172	SouthAmerica1	Brazil: SP, Igarata [IBGE7 3520202]
+ncbi-curated	ON022624	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022625	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022626	-	10172	SouthAmerica1	Brazil: SP, Sao Roque [IBGE7 3550605]
+ncbi-curated	ON022627	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022628	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022629	-	10172	SouthAmerica1	Brazil: SP, Cotia [IBGE7 3513009]
+ncbi-curated	ON022630	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022631	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022632	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022633	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022634	-	10172	SouthAmerica1	Brazil: SP, Sao Roque [IBGE7 3550605]
+ncbi-curated	ON022635	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022636	-	10172	SouthAmerica1	Brazil: SP, Jundiai [IBGE7 3525904]
+ncbi-curated	ON022637	-	10172	SouthAmerica1	Brazil: SP, Sao Roque [IBGE7 3550605]
+ncbi-curated	ON022638	-	10172	SouthAmerica1	Brazil: SP, Jundiai [IBGE7 3525904]
+ncbi-curated	ON022639	-	10172	SouthAmerica1	Brazil: SP, Jundiai [IBGE7 3525904]
+ncbi-curated	ON022640	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022641	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022642	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022643	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022644	-	10172	SouthAmerica1	Brazil: SP, Itatiba [IBGE7 3523404]
+ncbi-curated	ON022645	-	10172	SouthAmerica1	Brazil: SP, Itatiba [IBGE7 3523404]
+ncbi-curated	ON022646	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022647	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022648	-	10172	SouthAmerica1	Brazil: SP, Itatiba [IBGE7 3523404]
+ncbi-curated	ON022649	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022650	-	10172	SouthAmerica1	Brazil: SP, Sao Roque [IBGE7 3550605]
+ncbi-curated	ON022651	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022652	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022653	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022654	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022655	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022656	-	10172	SouthAmerica1	Brazil: SP, Santa Isabel [IBGE7 3546801]
+ncbi-curated	ON022657	-	10172	SouthAmerica1	Brazil: SP, Cotia [IBGE7 3513009]
+ncbi-curated	ON022658	-	10172	SouthAmerica1	Brazil: SP, Sarapui [IBGE7 3551108]
+ncbi-curated	ON022659	-	10172	SouthAmerica1	Brazil: SP, Embu Guaau [IBGE7 3515103]
+ncbi-curated	ON022660	-	10172	SouthAmerica1	Brazil: SP, Caraguatatuba [IBGE7 3510500]
+ncbi-curated	ON022661	-	10172	SouthAmerica1	Brazil: SP, Amparo [IBGE7 3501905]
+ncbi-curated	ON022662	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022663	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022664	-	10172	SouthAmerica1	Brazil: SP, Louveira [IBGE7 3527306]
+ncbi-curated	ON022665	-	10172	SouthAmerica1	Brazil: SP, Bom Jesus Dos Perdoes [IBGE7 3507100]
+ncbi-curated	ON022666	-	10172	SouthAmerica1	Brazil: SP, Mairinque [IBGE7 3528403]
+ncbi-curated	ON022667	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022668	-	10172	SouthAmerica1	Brazil: SP, Itapetininga [IBGE7 3522307]
+ncbi-curated	ON022669	-	10172	SouthAmerica1	Brazil: SP, Tambau [IBGE7 3553302]
+ncbi-curated	ON022670	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022671	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022672	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022673	-	10172	SouthAmerica1	Brazil: SP, Embu Guaau [IBGE7 3515103]
+ncbi-curated	ON022674	-	10172	SouthAmerica1	Brazil: SP, Embu Guaau [IBGE7 3515103]
+ncbi-curated	ON022675	-	10172	SouthAmerica1	Brazil: SP, Sarapui [IBGE7 3551108]
+ncbi-curated	ON022676	-	10172	SouthAmerica1	Brazil: SP, Itapetininga [IBGE7 3522307]
+ncbi-curated	ON022677	-	10172	SouthAmerica1	Brazil: SP, Espirito Santo Do Pinhal [IBGE7 3515186]
+ncbi-curated	ON022678	-	10172	SouthAmerica1	Brazil: SP, Morro Agudo [IBGE7 3531902]
+ncbi-curated	ON022679	-	10172	SouthAmerica1	Brazil: SP, Monte Alegre Do Sul [IBGE7 3531209]
+ncbi-curated	ON022680	-	10172	SouthAmerica1	Brazil: SP, Tuiuti [IBGE7 3554953]
+ncbi-curated	ON022681	-	10172	SouthAmerica1	Brazil: SP, Amparo [IBGE7 3501905]
+ncbi-curated	ON022682	-	10172	SouthAmerica1	Brazil: SP, Monte Alegre Do Sul [IBGE7 3531209]
+ncbi-curated	ON022683	-	10172	SouthAmerica1	Brazil: SP, Tuiuti [IBGE7 3554953]
+ncbi-curated	ON022684	-	10172	SouthAmerica1	Brazil: SP, Socorro [IBGE7 3552106]
+ncbi-curated	ON022685	-	10172	SouthAmerica1	Brazil: SP, Campinas [IBGE7 3509502]
+ncbi-curated	ON022686	-	10172	SouthAmerica1	Brazil: SP, Jaboticabal [IBGE7 3524303]
+ncbi-curated	ON022687	-	10172	SouthAmerica1	Brazil: SP, Campinas [IBGE7 3509502]
+ncbi-curated	ON022688	-	10172	SouthAmerica1	Brazil: SP, Severinia [IBGE7 3551900]
+ncbi-curated	ON022689	-	10172	SouthAmerica1	Brazil: SP, Amparo [IBGE7 3501905]
+ncbi-curated	ON022690	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022691	-	10172	SouthAmerica1	Brazil: SP, Monte Alegre Do Sul [IBGE7 3531209]
+ncbi-curated	ON022692	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022693	-	10172	SouthAmerica1	Brazil: SP, Monte Alegre Do Sul [IBGE7 3531209]
+ncbi-curated	ON022694	-	10172	SouthAmerica1	Brazil: SP, Sao Miguel Arcanjo [IBGE7 3550209]
+ncbi-curated	ON022695	-	10172	SouthAmerica1	Brazil: SP, Santa Isabel [IBGE7 3546801]
+ncbi-curated	ON022696	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022697	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022698	-	10172	SouthAmerica1	Brazil: SP, Jaboticabal [IBGE7 3524303]
+ncbi-curated	ON022699	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022700	-	10172	SouthAmerica1	Brazil: SP, Catanduva [IBGE7 3511102]
+ncbi-curated	ON022701	-	10172	SouthAmerica1	Brazil: SP, Catigua [IBGE7 3511201]
+ncbi-curated	ON022702	-	10172	SouthAmerica1	Brazil: SP, Pindorama [IBGE7 3538105]
+ncbi-curated	ON022703	-	10172	SouthAmerica1	Brazil: SP, Adolfo [IBGE7 3500204]
+ncbi-curated	ON022704	-	10172	SouthAmerica1	Brazil: SP, Tuiuti [IBGE7 3554953]
+ncbi-curated	ON022705	-	10172	SouthAmerica1	Brazil: SP, Pinhalzinho [IBGE7 3538204]
+ncbi-curated	ON022706	-	10172	SouthAmerica1	Brazil: SP, Jundiai [IBGE7 3525904]
+ncbi-curated	ON022707	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022708	-	10172	SouthAmerica1	Brazil: SP, Braganca Paulista [IBGE7 3507605]
+ncbi-curated	ON022709	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022710	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022711	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022712	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022713	-	10172	SouthAmerica1	Brazil: SP, Jundiai [IBGE7 3525904]
+ncbi-curated	ON022714	-	10172	SouthAmerica1	Brazil: SP, Itapecerica Da Serra [IBGE7 3522208]
+ncbi-curated	ON022715	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022716	-	10172	SouthAmerica1	Brazil
+ncbi-curated	ON022717	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022718	-	10172	SouthAmerica1	Brazil: SP, Sao Jose Do Rio Preto [IBGE 3549805]
+ncbi-curated	ON022719	-	10172	SouthAmerica1	Brazil
+ncbi-curated	ON022720	-	10172	SouthAmerica1	Brazil: SP, Campinas [IBGE7 3509502]
+ncbi-curated	ON022721	-	10172	SouthAmerica1	Brazil
+ncbi-curated	ON022722	-	10173	SouthAmerica1	Brazil: SP, Campinas [IBGE7 3509502]
+ncbi-curated	ON022723	-	10172	SouthAmerica1	Brazil: ES, Santa Teresa [IBGE7 3204609]
+ncbi-curated	ON022724	-	10172	SouthAmerica1	Brazil: RJ, Angra Dos Reis [IBGE7 3300100]
+ncbi-curated	ON022725	-	10172	SouthAmerica1	Brazil: ES, Marechal Floriano [IBGE7 3203346]
+ncbi-curated	ON022726	-	9884	SouthAmerica1	Brazil: RJ, Cantagalo [IBGE7 3301108]
+ncbi-curated	ON022727	-	9884	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022728	-	9884	SouthAmerica1	Brazil: RJ, Teresopolis [IBGE7 3305802]
+ncbi-curated	ON022729	-	10172	SouthAmerica1	Brazil: RJ, Volta Redonda [IBGE7 3306305]
+ncbi-curated	ON022730	-	9884	SouthAmerica1	Brazil: ES, Muniz Freira [IBGE7 3203700]
+ncbi-curated	ON022731	-	10172	SouthAmerica1	Brazil: ES, Vitoria [IBGE7 3205309]
+ncbi-curated	ON022732	-	10172	SouthAmerica1	Brazil: ES, Marechal Floriano [IBGE7 3203346]
+ncbi-curated	ON022733	-	9884	SouthAmerica1	Brazil: RJ, Rio De Janeiro [IBGE7 3304557]
+ncbi-curated	ON022734	-	10172	SouthAmerica1	Brazil: ES, Serra [IBGE7 3205002]
+ncbi-curated	ON022735	-	10172	SouthAmerica1	Brazil: RJ, Guapimirim [IBGE7 3301850]
+ncbi-curated	ON022736	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022737	-	10172	SouthAmerica1	Brazil: SP, Mairipora [IBGE7 3528502]
+ncbi-curated	ON022738	-	10172	SouthAmerica1	Brazil: SP, Atibaia [IBGE7 3504107]
+ncbi-curated	ON022739	-	10172	SouthAmerica1	Brazil: SP, Guarulhos [IBGE7 3518800]
+ncbi-curated	ON022740	-	10172	SouthAmerica1	Brazil: SP, Mairipora [IBGE7 3528502]
+ncbi-curated	ON022741	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022742	-	10172	SouthAmerica1	Brazil: SP, Guarulhos [IBGE7 3518800]
+ncbi-curated	ON022743	-	10172	SouthAmerica1	Brazil: SP, Mairipora [IBGE7 3528502]
+ncbi-curated	ON022744	-	10172	SouthAmerica1	Brazil: SP, Guarulhos [IBGE7 3518800]
+ncbi-curated	ON022745	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON022746	-	10172	SouthAmerica1	Brazil: SP, Sao Paulo [IBGE7 3550308]
+ncbi-curated	ON323052	-	10751	WestAfrica	Nigeria
+ncbi-curated	ON323053	-	10500	WestAfrica	Nigeria
+ncbi-curated	ON323054	-	10715	WestAfrica	Nigeria
+ncbi-curated	ON402371	-	10776	WestAfrica	Nigeria
+ncbi-curated	ON502389	-	10216	SouthAmerica1	Brazil: Nova Lima, Minas Gerais
+ncbi-curated	ON502390	-	10216	SouthAmerica1	Brazil: Mariana, Minas Gerais
+ncbi-curated	ON502391	-	10213	SouthAmerica1	Brazil: Nova Lima, Minas Gerais
+ncbi-curated	ON502392	-	10216	SouthAmerica1	Brazil: Caete, Minas Gerais
+ncbi-curated	ON502393	-	10199	SouthAmerica1	Brazil: Nova Uniao, Minas Gerais
+ncbi-curated	ON502394	-	9806	SouthAmerica1	Brazil: Santa Barbara, Minas Gerais
+ncbi-curated	ON502395	-	10214	SouthAmerica1	Brazil: Mariana, Minas Gerais
+ncbi-curated	ON502396	-	10187	SouthAmerica1	Brazil: Rio Acima, Minas Gerais
+ncbi-curated	ON502397	-	9785	SouthAmerica1	Brazil: Ouro Preto, Minas Gerais
+ncbi-curated	ON502398	-	10210	SouthAmerica1	Brazil: Mateus Leme, Minas Gerais
+ncbi-curated	ON502399	-	10211	SouthAmerica1	Brazil: Itabira, Minas Gerais
+ncbi-curated	ON502400	-	9808	SouthAmerica1	Brazil: Guaraciaba, Minas Gerais
+ncbi-curated	ON502401	-	10203	SouthAmerica1	Brazil: Carmopolis de Minas, Minas Gerais
+ncbi-curated	ON502402	-	10201	SouthAmerica1	Brazil: Caratinga, Minas Gerais
+ncbi-curated	ON502403	-	10729	SouthAmerica1	Brazil: Nova Lima, Minas Gerais
+ncbi-curated	ON502404	-	10201	SouthAmerica1	Brazil: Teofilo Otoni, Minas Gerais
+ncbi-curated	ON502405	-	10202	SouthAmerica1	Brazil: Belo Horizonte, Minas Gerais
+ncbi-curated	ON502406	-	10201	SouthAmerica1	Brazil: Novo Cruzeiro, Minas Gerais
+ncbi-curated	ON502407	-	9806	SouthAmerica1	Brazil: Alvarenga, Minas Gerais
+ncbi-curated	ON502408	-	10211	SouthAmerica1	Brazil: Ouro Preto, Minas Gerais
+ncbi-curated	ON502409	-	10202	SouthAmerica1	Brazil: Itabira, Minas Gerais
+ncbi-curated	ON502410	-	10216	SouthAmerica1	Brazil: Itabira, Minas Gerais
+ncbi-curated	ON502411	-	10212	SouthAmerica1	Brazil: Conselheiro Lafaiete, Minas Gerais
+ncbi-curated	ON502412	-	10216	SouthAmerica1	Brazil: Caete, Minas Gerais
+ncbi-curated	ON502413	-	10208	SouthAmerica1	Brazil: Caete, Minas Gerais
+ncbi-curated	ON502414	-	10215	SouthAmerica1	Brazil: Itabira, Minas Gerais
+ncbi-curated	ON502415	-	10200	SouthAmerica1	Brazil: Senhora de Oliveira, Minas Gerais
+ncbi-curated	ON502416	-	10216	SouthAmerica1	Brazil: Ouro Branco, Minas Gerais
+ncbi-curated	ON502417	-	10202	SouthAmerica1	Brazil: Mariana, Minas Gerais
+ncbi-curated	ON502418	-	10195	SouthAmerica1	Brazil: Santo Andre, Minas Gerais
+ncbi-curated	ON502419	-	10215	SouthAmerica1	Brazil: Raposos, Minas Gerais
+ncbi-curated	ON502420	-	10216	SouthAmerica1	Brazil: Brumadinho, Minas Gerais
+ncbi-curated	ON502421	-	10215	SouthAmerica1	Brazil: Brumadinho, Minas Gerais
+ncbi-curated	ON502423	-	10214	SouthAmerica1	Brazil: Teofilo Otoni, Minas Gerais
+ncbi-curated	ON502424	-	10216	SouthAmerica1	Brazil: Itambacuri, Minas Gerais
+ncbi-curated	ON502425	-	10205	SouthAmerica1	Brazil: Teofilo Otoni, Minas Gerais
+ncbi-curated	ON502426	-	10190	SouthAmerica1	Brazil: Novo Cruzeiro, Minas Gerais
+ncbi-curated	ON502427	-	10216	SouthAmerica1	Brazil: Itambacuri, Minas Gerais
+ncbi-curated	ON502428	-	10199	SouthAmerica1	Brazil: Novo Cruzeiro, Minas Gerais
+ncbi-curated	ON502429	-	10189	SouthAmerica1	Brazil: Teofilo Otoni, Minas Gerais
+ncbi-curated	ON502430	-	10201	SouthAmerica1	Brazil: Ladainha, Minas Gerais
+ncbi-curated	ON502431	-	10209	SouthAmerica1	Brazil: Ladainha, Minas Gerais
+ncbi-curated	ON502432	-	10201	SouthAmerica1	Brazil: Ladainha, Minas Gerais
+ncbi-curated	ON502433	-	10202	SouthAmerica1	Brazil: Teofilo Otoni, Minas Gerais
+ncbi-curated	ON502434	-	10209	SouthAmerica1	Brazil: Itambacuri, Minas Gerais
+ncbi-curated	ON502435	-	10205	SouthAmerica1	Brazil: Ladainha, Minas Gerais
+ncbi-curated	ON502436	-	10200	SouthAmerica1	Brazil: Ladainha, Minas Gerais
+ncbi-curated	ON502437	-	10216	SouthAmerica1	Brazil: Setubinha, Minas Gerais
+ncbi-curated	ON502438	-	10216	SouthAmerica1	Brazil: Mariana, Minas Gerais
+ncbi-curated	ON502439	-	10215	SouthAmerica1	Brazil: Ouro Branco, Minas Gerais
+ncbi-curated	ON502440	-	10216	SouthAmerica1	Brazil: Ouro Preto, Minas Gerais
+ncbi-curated	ON502441	-	9808	SouthAmerica1	Brazil: Conselheiro Lafaiete, Minas Gerais
+ncbi-curated	ON502442	-	9914	SouthAmerica1	Brazil: Guaraciaba, Minas Gerais
+ncbi-curated	OP508570	-	9788	SouthAmerica1	Brazil: Brasilia, Distrito Federal
+ncbi-curated	OP508571	-	10322	SouthAmerica1	Brazil: Brasilia, Federal District
+ncbi-curated	OP508572	-	10288	SouthAmerica1	Brazil: Luziania, Goias
+ncbi-curated	OP508573	-	10235	SouthAmerica1	Brazil: Goiania, Goias
+ncbi-curated	OP508574	-	10311	SouthAmerica1	Brazil: Goiania, Goias
+ncbi-curated	OP508575	-	10318	SouthAmerica1	Brazil: Goiania, Goias
+ncbi-curated	OP508576	-	10172	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	OP508577	-	10172	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	OP508578	-	10172	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	OP508579	-	10163	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	OP508580	-	10172	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	OP508581	-	10195	SouthAmerica1	Brazil: Brasilia de Minas, Minas Gerais
+ncbi-curated	OP508582	-	10194	SouthAmerica1	Brazil: Brasilia de Minas, Minas Gerais
+ncbi-curated	OP508583	-	10195	SouthAmerica1	Brazil: Brasilia de Minas, Minas Gerais
+ncbi-curated	OP508584	-	10172	SouthAmerica1	Brazil: Minas Gerais
+ncbi-curated	OP508585	-	10194	SouthAmerica1	Brazil: Brasilia de Minas, Minas Gerais
+ncbi-curated	OP508586	-	10194	SouthAmerica1	Brazil: Brasilia de Minas, Minas Gerais
+ncbi-curated	OP508587	-	10055	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508588	-	10194	SouthAmerica1	Brazil: Ubai, Minas Gerais
+ncbi-curated	OP508589	-	10196	SouthAmerica1	Brazil: Brasilia de Minas, Minas Gerais
+ncbi-curated	OP508590	-	10128	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508591	-	10086	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508592	-	10165	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508593	-	10101	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508594	-	10050	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508595	-	10085	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508596	-	10077	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508597	-	9981	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508598	-	10106	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508599	-	10090	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508600	-	10076	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508601	-	10113	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508602	-	10094	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508603	-	9994	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508604	-	9948	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508605	-	9955	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508606	-	9974	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508607	-	9889	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508608	-	10012	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508609	-	9949	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508610	-	10090	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508611	-	10077	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508612	-	10090	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508613	-	9968	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508614	-	10083	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508615	-	10054	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508616	-	10075	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508617	-	10051	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508618	-	10080	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508619	-	10051	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508620	-	10091	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508621	-	10082	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508622	-	10080	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508623	-	10061	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508624	-	10077	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508625	-	10087	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508626	-	9975	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508627	-	10072	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508628	-	10085	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508629	-	10072	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508630	-	10054	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508631	-	10120	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508632	-	10110	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508633	-	10075	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508634	-	10081	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508635	-	10087	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508636	-	10075	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508637	-	10104	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508638	-	10099	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508639	-	10088	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508640	-	10077	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508641	-	10087	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508642	-	10069	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508643	-	10068	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508644	-	10148	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508645	-	10080	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508646	-	10079	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508647	-	10100	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508648	-	10079	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508649	-	10103	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508650	-	9991	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508651	-	10079	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508652	-	10086	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508653	-	10111	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508654	-	10128	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508655	-	10086	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508656	-	10101	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508657	-	10195	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508658	-	10080	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508659	-	10164	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508660	-	10120	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508661	-	10135	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508662	-	10084	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508663	-	10144	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508664	-	10100	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508665	-	10124	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508666	-	10156	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508667	-	10086	SouthAmerica1	Brazil: Santa Catarina
+ncbi-curated	OP508668	-	10049	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508669	-	10139	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508670	-	10179	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508671	-	10108	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508672	-	10133	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508673	-	10134	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508674	-	10090	SouthAmerica1	Brazil: Rio Grande do Sul
+ncbi-curated	OP508675	-	10170	SouthAmerica1	Brazil: Parana
+ncbi-curated	OP508676	-	10141	SouthAmerica1	Brazil: Paranagua, Parana
+ncbi-curated	OP508677	-	10180	SouthAmerica1	Brazil: Capao Alto, Santa Catarina
+ncbi-curated	OP508678	-	10547	SouthAmerica1	Brazil: Guabiju, Rio Grande do Sul
+ncbi-curated	OP508679	-	10216	SouthAmerica1	Brazil: Lagoa Vermelha, Rio Grande do Sul
+ncbi-curated	OP508680	-	10620	SouthAmerica1	Brazil: Flores da Cunha, Rio Grande do Sul
+ncbi-curated	OP508681	-	10466	SouthAmerica1	Brazil: Cruz Machado, Parana
+ncbi-curated	OP508682	-	10208	SouthAmerica1	Brazil: Sao Jose dos Pinhais, Parana
+ncbi-curated	OP508683	-	10176	SouthAmerica1	Brazil: Curitibanos, Santa Catarina
+ncbi-curated	OP508684	-	10155	SouthAmerica1	Brazil: Campo Belo do Sul, Santa Catarina
+ncbi-curated	OP508685	-	10183	SouthAmerica1	Brazil: Vacaria, Rio Grande do Sul
+ncbi-curated	OP508686	-	10493	SouthAmerica1	Brazil: Linha Nova, Rio Grande do Sul
+ncbi-curated	OP508687	-	10158	SouthAmerica1	Brazil: Viamao, Rio Grande do Sul
+ncbi-curated	OP508688	-	10529	SouthAmerica1	Brazil: Carambei, Parana
+ncbi-curated	OP508689	-	10175	SouthAmerica1	Brazil: Pinhal da Serra, Rio Grande do Sul
+ncbi-curated	OP508690	-	10185	SouthAmerica1	Brazil: Campestre da Serra, Rio Grande do Sul
+ncbi-curated	OP508691	-	10172	SouthAmerica1	Brazil: Andre da Rocha, Rio Grande do Sul
+ncbi-curated	OP508692	-	10271	SouthAmerica1	Brazil: Nova Petropolis, Rio Grande do Sul
+ncbi-curated	OP508693	-	10179	SouthAmerica1	Brazil: Caxias do Sul, Rio Grande do Sul
+ncbi-curated	OP508694	-	10329	SouthAmerica1	Brazil: Campo Belo do Sul, Santa Catarina
+ncbi-curated	OP508695	-	10571	SouthAmerica1	Brazil: Farroupilha, Rio Grande do Sul
+ncbi-curated	OP508696	-	10158	SouthAmerica1	Brazil: Balsa Nova, Parana
+ncbi-curated	OP508697	-	10191	SouthAmerica1	Brazil: Vacaria, Rio Grande do Sul
+ncbi-curated	OP508698	-	10603	SouthAmerica1	Brazil: Feliz, Rio Grande do Sul
+ncbi-curated	OP508699	-	10202	SouthAmerica1	Brazil: Sao Francisco de Paula, Rio Grande do Sul
+ncbi-curated	OP508700	-	10218	SouthAmerica1	Brazil: Antonio Olinto, Parana
+ncbi-curated	OP508701	-	10161	SouthAmerica1	Brazil: Pinhal da Serra, Rio Grande do Sul
+ncbi-curated	OP508702	-	10158	SouthAmerica1	Brazil: Sao Marcos, Rio Grande do Sul
+ncbi-curated	OP508703	-	10159	SouthAmerica1	Brazil: Lages, Santa Catarina
+ncbi-curated	OP508704	-	10445	SouthAmerica1	Brazil: Vacaria, Rio Grande do Sul
+ncbi-curated	OP508705	-	10225	SouthAmerica1	Brazil: Sao Jose do Cerrito, Santa Catarina
+ncbi-curated	OP508706	-	10558	SouthAmerica1	Brazil: Pomerode, Santa Catarina
+ncbi-curated	OP508707	-	9778	SouthAmerica1	Brazil: Sao Jose do Cerrito, Santa Catarina
+ncbi-curated	OP508708	-	10212	SouthAmerica1	Brazil: Rio Fortuna, Santa Catarina
+ncbi-curated	OP508709	-	10186	SouthAmerica1	Brazil: Muitos Capoes, Rio Grande do Sul
+ncbi-curated	OP508710	-	10199	SouthAmerica1	Brazil: Bom Jesus, Rio Grande do Sul
+ncbi-curated	OP508711	-	10185	SouthAmerica1	Brazil: Blumenau, Santa Catarina
+ncbi-curated	OP508712	-	10173	SouthAmerica1	Brazil: Santa Rosa de Lima, Santa Catarina
+ncbi-curated	OP508713	-	10196	SouthAmerica1	Brazil: Ponte Alta, Santa Catarina
+ncbi-curated	OP508714	-	10221	SouthAmerica1	Brazil: Mafra, Santa Catarina
+ncbi-curated	OP508715	-	10802	SouthAmerica1	Brazil: Tocantins
+ncbi-curated	OP508716	-	10170	SouthAmerica1	Brazil: Sao Marcos, Rio Grande do Sul
+ncbi-curated	OP796361	-	10862	WestAfrica	Russia
+ncbi-curated	OQ077983	-	10741	EastAfrica	Uganda
+ncbi-curated	OQ572695	36992466	10172	SouthAmerica1	Brazil
+ncbi-curated	OQ572696	36992466	10172	SouthAmerica1	Brazil
+ncbi-curated	OQ675592	-	10859	SouthAmerica1	Brazil: Sao Paulo, Aguas da Prata
+ncbi-curated	OQ932914	37368747	10189	SouthAmerica1	Brazil: Goias, Jandaia
+ncbi-curated	OQ932915	37368747	10747	SouthAmerica1	Brazil: Goias, Jandaia
+ncbi-curated	OR052147	-	10760	SouthAmerica1	Brazil: Sao Paulo, Sao Joao da Boa Vista
+ncbi-curated	OR075001	-	10164	WestAfrica	Nigeria: Edo
+ncbi-curated	OR075002	-	10347	WestAfrica	Nigeria: Ebonyi
+ncbi-curated	U17066	7754673	10862	WestAfrica	-
+ncbi-curated	U17067	7754673	10862	WestAfrica	-
+ncbi-curated	U21055	7595382	10862	WestAfrica	-
+ncbi-curated	U21056	7595382	10862	WestAfrica	-
+ncbi-curated	X03700	4023707	10862	WestAfrica	-
+ncbi-curated	X15062	2734112	10862	WestAfrica	-
+ncbi-curated-short	AF013417	-	-	SouthAmerica1	-
+ncbi-curated-short	AF052440	-	-	WestAfrica	-
+ncbi-curated-short	AF052441	-	-	WestAfrica	-
+ncbi-curated-short	AF052442	-	-	WestAfrica	-
+ncbi-curated-short	AF052443	-	-	WestAfrica	-
+ncbi-curated-short	AF052447	-	-	WestAfrica	-
+ncbi-curated-short	AF052448	-	-	WestAfrica	-
+ncbi-curated-short	AF121952	-	-	SouthAmerica1	-
+ncbi-curated-short	AF162449	-	-	-	-
+ncbi-curated-short	AF162450	-	-	-	-
+ncbi-curated-short	AF162451	-	-	SouthAmerica2	-
+ncbi-curated-short	AF162452	-	-	SouthAmerica2	-
+ncbi-curated-short	AF312554	-	-	-	-
+ncbi-curated-short	AF369669	-	-	EastAfrica	-
+ncbi-curated-short	AF369670	-	-	WestAfrica	-
+ncbi-curated-short	AF369671	-	-	WestAfrica	-
+ncbi-curated-short	AF369672	-	-	EastAfrica	-
+ncbi-curated-short	AF369673	-	-	EastAfrica	-
+ncbi-curated-short	AF369674	-	-	EastAfrica	-
+ncbi-curated-short	AF369675	-	-	EastAfrica	-
+ncbi-curated-short	AF369676	-	-	-	-
+ncbi-curated-short	AF369677	-	-	WestAfrica	-
+ncbi-curated-short	AF369678	-	-	WestAfrica	-
+ncbi-curated-short	AF369679	-	-	WestAfrica	-
+ncbi-curated-short	AF369680	-	-	WestAfrica	-
+ncbi-curated-short	AF369681	-	-	WestAfrica	-
+ncbi-curated-short	AF369682	-	-	WestAfrica	-
+ncbi-curated-short	AF369683	-	-	WestAfrica	-
+ncbi-curated-short	AF369684	-	-	WestAfrica	-
+ncbi-curated-short	AF369685	-	-	WestAfrica	-
+ncbi-curated-short	AF369686	-	-	WestAfrica	-
+ncbi-curated-short	AF369687	-	-	WestAfrica	-
+ncbi-curated-short	AF369688	-	-	WestAfrica	-
+ncbi-curated-short	AF369689	-	-	WestAfrica	-
+ncbi-curated-short	AF369690	-	-	WestAfrica	-
+ncbi-curated-short	AF369691	-	-	WestAfrica	-
+ncbi-curated-short	AF369692	-	-	EastAfrica	-
+ncbi-curated-short	AF369693	-	-	EastAfrica	-
+ncbi-curated-short	AF369694	-	-	EastAfrica	-
+ncbi-curated-short	AF369695	-	-	EastAfrica	-
+ncbi-curated-short	AF369696	-	-	EastAfrica	-
+ncbi-curated-short	AF369697	-	-	EastAfrica	-
+ncbi-curated-short	AH005112	-	-	WestAfrica	-
+ncbi-curated-short	AY161927	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161928	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161929	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161930	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161931	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161932	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161933	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161934	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161935	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161936	-	-	-	-
+ncbi-curated-short	AY161937	-	-	-	-
+ncbi-curated-short	AY161938	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161939	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161940	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161941	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161942	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161943	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161944	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161945	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161946	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161947	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161948	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161949	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161950	-	-	SouthAmerica2	-
+ncbi-curated-short	AY161951	-	-	SouthAmerica2	-
+ncbi-curated-short	AY326416	-	-	-	-
+ncbi-curated-short	AY326418	-	-	-	-
+ncbi-curated-short	AY359907	-	-	WestAfrica	-
+ncbi-curated-short	AY359908	-	-	WestAfrica	-
+ncbi-curated-short	AY359909	-	-	WestAfrica	-
+ncbi-curated-short	AY437135	-	-	SouthAmerica1	-
+ncbi-curated-short	AY495558	-	-	WestAfrica	-
+ncbi-curated-short	AY495559	-	-	WestAfrica	-
+ncbi-curated-short	AY495560	-	-	WestAfrica	-
+ncbi-curated-short	AY495561	-	-	WestAfrica	-
+ncbi-curated-short	AY495562	-	-	WestAfrica	-
+ncbi-curated-short	AY495563	-	-	WestAfrica	-
+ncbi-curated-short	AY495564	-	-	WestAfrica	-
+ncbi-curated-short	AY495565	-	-	WestAfrica	-
+ncbi-curated-short	AY495566	-	-	WestAfrica	-
+ncbi-curated-short	AY495567	-	-	WestAfrica	-
+ncbi-curated-short	AY495568	-	-	WestAfrica	-
+ncbi-curated-short	AY495569	-	-	WestAfrica	-
+ncbi-curated-short	AY495570	-	-	WestAfrica	-
+ncbi-curated-short	AY495571	-	-	WestAfrica	-
+ncbi-curated-short	AY495572	-	-	WestAfrica	-
+ncbi-curated-short	AY495573	-	-	WestAfrica	-
+ncbi-curated-short	AY495574	-	-	WestAfrica	-
+ncbi-curated-short	AY498854	-	-	-	-
+ncbi-curated-short	AY502949	-	-	WestAfrica	-
+ncbi-curated-short	AY540431	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540432	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540433	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540434	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540435	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540436	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540437	-	-	-	-
+ncbi-curated-short	AY540438	-	-	-	-
+ncbi-curated-short	AY540439	-	-	-	-
+ncbi-curated-short	AY540440	-	-	-	-
+ncbi-curated-short	AY540441	-	-	-	-
+ncbi-curated-short	AY540442	-	-	-	-
+ncbi-curated-short	AY540443	-	-	-	-
+ncbi-curated-short	AY540444	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540445	-	-	-	-
+ncbi-curated-short	AY540446	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540447	-	-	-	-
+ncbi-curated-short	AY540448	-	-	-	-
+ncbi-curated-short	AY540449	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540450	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540451	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540452	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540453	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540454	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540455	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540456	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540457	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540458	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540459	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540460	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540461	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540462	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540463	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540464	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540465	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540466	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540467	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540468	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540469	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540470	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540471	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540472	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540473	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540474	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540475	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540476	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540477	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540478	-	-	SouthAmerica2	-
+ncbi-curated-short	AY540479	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540480	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540481	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540482	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540483	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540484	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540485	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540486	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540487	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540488	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540489	-	-	SouthAmerica1	-
+ncbi-curated-short	AY540490	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541326	-	-	-	-
+ncbi-curated-short	AY541327	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541328	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541329	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541330	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541331	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541332	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541333	-	-	-	-
+ncbi-curated-short	AY541334	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541335	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541336	-	-	-	-
+ncbi-curated-short	AY541337	-	-	-	-
+ncbi-curated-short	AY541338	-	-	-	-
+ncbi-curated-short	AY541339	-	-	-	-
+ncbi-curated-short	AY541340	-	-	-	-
+ncbi-curated-short	AY541341	-	-	-	-
+ncbi-curated-short	AY541342	-	-	-	-
+ncbi-curated-short	AY541343	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541344	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541345	-	-	-	-
+ncbi-curated-short	AY541346	-	-	-	-
+ncbi-curated-short	AY541347	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541348	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541349	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541350	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541351	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541352	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541353	-	-	-	-
+ncbi-curated-short	AY541354	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541355	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541356	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541357	-	-	-	-
+ncbi-curated-short	AY541358	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541359	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541360	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541361	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541362	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541363	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541364	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541365	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541366	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541367	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541368	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541369	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541370	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541371	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541372	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541373	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541374	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541375	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541376	-	-	-	-
+ncbi-curated-short	AY541377	-	-	-	-
+ncbi-curated-short	AY541378	-	-	-	-
+ncbi-curated-short	AY541379	-	-	-	-
+ncbi-curated-short	AY541380	-	-	-	-
+ncbi-curated-short	AY541381	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541382	-	-	-	-
+ncbi-curated-short	AY541383	-	-	-	-
+ncbi-curated-short	AY541384	-	-	-	-
+ncbi-curated-short	AY541385	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541386	-	-	-	-
+ncbi-curated-short	AY541387	-	-	-	-
+ncbi-curated-short	AY541388	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541390	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541391	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541392	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541393	-	-	-	-
+ncbi-curated-short	AY541394	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541395	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541396	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541397	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541398	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541399	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541400	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541401	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541402	-	-	WestAfrica	-
+ncbi-curated-short	AY541403	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541404	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541405	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541406	-	-	-	-
+ncbi-curated-short	AY541407	-	-	EastAfrica	-
+ncbi-curated-short	AY541408	-	-	-	-
+ncbi-curated-short	AY541409	-	-	WestAfrica	-
+ncbi-curated-short	AY541410	-	-	WestAfrica	-
+ncbi-curated-short	AY541411	-	-	WestAfrica	-
+ncbi-curated-short	AY541412	-	-	-	-
+ncbi-curated-short	AY541413	-	-	-	-
+ncbi-curated-short	AY541414	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541415	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541416	-	-	-	-
+ncbi-curated-short	AY541417	-	-	-	-
+ncbi-curated-short	AY541418	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541419	-	-	-	-
+ncbi-curated-short	AY541420	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541421	-	-	-	-
+ncbi-curated-short	AY541422	-	-	-	-
+ncbi-curated-short	AY541423	-	-	-	-
+ncbi-curated-short	AY541424	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541425	-	-	-	-
+ncbi-curated-short	AY541426	-	-	-	-
+ncbi-curated-short	AY541427	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541428	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541429	-	-	-	-
+ncbi-curated-short	AY541430	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541431	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541432	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541433	-	-	-	-
+ncbi-curated-short	AY541434	-	-	SouthAmerica2	-
+ncbi-curated-short	AY541435	-	-	-	-
+ncbi-curated-short	AY541436	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541437	-	-	-	-
+ncbi-curated-short	AY541438	-	-	-	-
+ncbi-curated-short	AY541439	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541440	-	-	EastAfrica	-
+ncbi-curated-short	AY541441	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541442	-	-	SouthAmerica1	-
+ncbi-curated-short	AY541443	-	-	-	-
+ncbi-curated-short	AY541444	-	-	-	-
+ncbi-curated-short	AY541445	-	-	EastAfrica	-
+ncbi-curated-short	AY566272	-	-	-	-
+ncbi-curated-short	AY690831	-	-	-	-
+ncbi-curated-short	AY690832	-	-	-	-
+ncbi-curated-short	AY690833	-	-	-	-
+ncbi-curated-short	AY839631	-	-	EastAfrica	-
+ncbi-curated-short	AY839632	-	-	WestAfrica	-
+ncbi-curated-short	AY839633	-	-	EastAfrica	-
+ncbi-curated-short	AY839634	-	-	EastAfrica	-
+ncbi-curated-short	AY839635	-	-	WestAfrica	-
+ncbi-curated-short	AY839636	-	-	EastAfrica	-
+ncbi-curated-short	AY960137	-	-	WestAfrica	-
+ncbi-curated-short	AY960138	-	-	WestAfrica	-
+ncbi-curated-short	AY960139	-	-	WestAfrica	-
+ncbi-curated-short	AY960140	-	-	EastAfrica	-
+ncbi-curated-short	AY960141	-	-	-	-
+ncbi-curated-short	AY960142	-	-	-	-
+ncbi-curated-short	AY960143	-	-	-	-
+ncbi-curated-short	AY960144	-	-	-	-
+ncbi-curated-short	AY960145	-	-	-	-
+ncbi-curated-short	AY960146	-	-	-	-
+ncbi-curated-short	AY960147	-	-	-	-
+ncbi-curated-short	AY960148	-	-	-	-
+ncbi-curated-short	CQ753912	-	-	-	-
+ncbi-curated-short	CQ753913	-	-	-	-
+ncbi-curated-short	CQ754933	-	-	-	-
+ncbi-curated-short	CQ754934	-	-	-	-
+ncbi-curated-short	CQ867053	-	-	WestAfrica	-
+ncbi-curated-short	CQ871192	-	-	WestAfrica	-
+ncbi-curated-short	D14458	-	-	SouthAmerica2	-
+ncbi-curated-short	DI100319	-	-	-	-
+ncbi-curated-short	DI101079	-	-	-	-
+ncbi-curated-short	DQ068260	-	-	-	-
+ncbi-curated-short	DQ068261	-	-	-	-
+ncbi-curated-short	DQ068262	-	-	-	-
+ncbi-curated-short	DQ068263	-	-	-	-
+ncbi-curated-short	DQ068264	-	-	-	-
+ncbi-curated-short	DQ872411	-	-	SouthAmerica1	-
+ncbi-curated-short	DQ872412	-	-	SouthAmerica2	-
+ncbi-curated-short	EU303239	-	-	SouthAmerica1	-
+ncbi-curated-short	FJ875515	-	-	SouthAmerica1	-
+ncbi-curated-short	FJ875516	-	-	SouthAmerica1	-
+ncbi-curated-short	FJ875517	-	-	SouthAmerica1	-
+ncbi-curated-short	FJ875518	-	-	SouthAmerica1	-
+ncbi-curated-short	FJ875519	-	-	SouthAmerica1	-
+ncbi-curated-short	FJ875520	-	-	SouthAmerica1	-
+ncbi-curated-short	GU073130	-	-	WestAfrica	-
+ncbi-curated-short	GU073131	-	-	WestAfrica	-
+ncbi-curated-short	GU073132	-	-	WestAfrica	-
+ncbi-curated-short	GU073133	-	-	WestAfrica	-
+ncbi-curated-short	GU073134	-	-	WestAfrica	-
+ncbi-curated-short	GU073135	-	-	WestAfrica	-
+ncbi-curated-short	GU073136	-	-	WestAfrica	-
+ncbi-curated-short	GU073137	-	-	WestAfrica	-
+ncbi-curated-short	GU073138	-	-	WestAfrica	-
+ncbi-curated-short	GU073139	-	-	WestAfrica	-
+ncbi-curated-short	GU073140	-	-	WestAfrica	-
+ncbi-curated-short	GU073141	-	-	WestAfrica	-
+ncbi-curated-short	GU073142	-	-	WestAfrica	-
+ncbi-curated-short	GU073143	-	-	WestAfrica	-
+ncbi-curated-short	GU073144	-	-	WestAfrica	-
+ncbi-curated-short	GU073145	-	-	WestAfrica	-
+ncbi-curated-short	GU073146	-	-	WestAfrica	-
+ncbi-curated-short	GU073147	-	-	WestAfrica	-
+ncbi-curated-short	GU073148	-	-	WestAfrica	-
+ncbi-curated-short	GU073149	-	-	WestAfrica	-
+ncbi-curated-short	GU073150	-	-	WestAfrica	-
+ncbi-curated-short	GU073151	-	-	WestAfrica	-
+ncbi-curated-short	GU073152	-	-	WestAfrica	-
+ncbi-curated-short	GU073153	-	-	WestAfrica	-
+ncbi-curated-short	GU073154	-	-	WestAfrica	-
+ncbi-curated-short	GU073155	-	-	WestAfrica	-
+ncbi-curated-short	GU073156	-	-	WestAfrica	-
+ncbi-curated-short	GU073157	-	-	WestAfrica	-
+ncbi-curated-short	GU073158	-	-	WestAfrica	-
+ncbi-curated-short	GU073159	-	-	WestAfrica	-
+ncbi-curated-short	GU073160	-	-	WestAfrica	-
+ncbi-curated-short	GU073161	-	-	WestAfrica	-
+ncbi-curated-short	GU073162	-	-	WestAfrica	-
+ncbi-curated-short	GU073163	-	-	WestAfrica	-
+ncbi-curated-short	GU073164	-	-	WestAfrica	-
+ncbi-curated-short	GU073165	-	-	WestAfrica	-
+ncbi-curated-short	GU073166	-	-	WestAfrica	-
+ncbi-curated-short	GU951804	-	-	-	-
+ncbi-curated-short	HM582839	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582840	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582841	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582842	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582843	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582844	-	-	SouthAmerica2	-
+ncbi-curated-short	HM582845	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582846	-	-	SouthAmerica2	-
+ncbi-curated-short	HM582847	-	-	SouthAmerica2	-
+ncbi-curated-short	HM582848	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582849	-	-	SouthAmerica1	-
+ncbi-curated-short	HM582850	-	-	WestAfrica	-
+ncbi-curated-short	HQ123568	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123569	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123570	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123571	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123572	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123573	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123574	-	-	SouthAmerica1	-
+ncbi-curated-short	HQ123575	-	-	SouthAmerica1	-
+ncbi-curated-short	HW250534	-	-	WestAfrica	-
+ncbi-curated-short	JA190478	-	-	-	-
+ncbi-curated-short	JA190479	-	-	-	-
+ncbi-curated-short	JB021956	-	-	WestAfrica	-
+ncbi-curated-short	JB021957	-	-	WestAfrica	-
+ncbi-curated-short	JB021958	-	-	-	-
+ncbi-curated-short	JB021959	-	-	-	-
+ncbi-curated-short	JB021960	-	-	-	-
+ncbi-curated-short	JB021961	-	-	-	-
+ncbi-curated-short	JX012097	-	-	-	-
+ncbi-curated-short	JX012098	-	-	EastAfrica	-
+ncbi-curated-short	JX012099	-	-	EastAfrica	-
+ncbi-curated-short	JX012100	-	-	EastAfrica	-
+ncbi-curated-short	JX012101	-	-	EastAfrica	-
+ncbi-curated-short	JX012102	-	-	EastAfrica	-
+ncbi-curated-short	JX012103	-	-	EastAfrica	-
+ncbi-curated-short	KM031087	-	-	-	-
+ncbi-curated-short	KM388819	-	-	SouthAmerica1	-
+ncbi-curated-short	KM388820	-	-	SouthAmerica1	-
+ncbi-curated-short	KM388821	-	-	SouthAmerica1	-
+ncbi-curated-short	KM388822	-	-	SouthAmerica1	-
+ncbi-curated-short	KM388823	-	-	SouthAmerica1	-
+ncbi-curated-short	KX037022	-	-	SouthAmerica1	-
+ncbi-curated-short	L02865	-	-	WestAfrica	-
+ncbi-curated-short	L02866	-	-	WestAfrica	-
+ncbi-curated-short	L06480	-	-	WestAfrica	-
+ncbi-curated-short	LG065589	-	-	WestAfrica	-
+ncbi-curated-short	LP967331	-	-	WestAfrica	-
+ncbi-curated-short	LQ868217	-	-	-	-
+ncbi-curated-short	LQ868218	-	-	-	-
+ncbi-curated-short	LQ868219	-	-	-	-
+ncbi-curated-short	LQ868220	-	-	-	-
+ncbi-curated-short	LQ868221	-	-	-	-
+ncbi-curated-short	LQ868222	-	-	-	-
+ncbi-curated-short	LQ868223	-	-	-	-
+ncbi-curated-short	LQ868224	-	-	-	-
+ncbi-curated-short	LQ868225	-	-	-	-
+ncbi-curated-short	LQ868226	-	-	-	-
+ncbi-curated-short	LQ868233	-	-	-	-
+ncbi-curated-short	LQ868234	-	-	-	-
+ncbi-curated-short	LQ868235	-	-	-	-
+ncbi-curated-short	LQ868236	-	-	-	-
+ncbi-curated-short	LQ868237	-	-	-	-
+ncbi-curated-short	LQ868238	-	-	-	-
+ncbi-curated-short	LQ868239	-	-	-	-
+ncbi-curated-short	LQ868240	-	-	-	-
+ncbi-curated-short	LQ868241	-	-	-	-
+ncbi-curated-short	LQ868242	-	-	-	-
+ncbi-curated-short	LY720048	-	-	-	-
+ncbi-curated-short	LY720056	-	-	-	-
+ncbi-curated-short	MA989712	-	-	WestAfrica	-
+ncbi-curated-short	MF443184	-	-	SouthAmerica1	-
+ncbi-curated-short	MF443185	-	-	SouthAmerica1	-
+ncbi-curated-short	MF443186	-	-	SouthAmerica1	-
+ncbi-curated-short	MF443187	-	-	SouthAmerica1	-
+ncbi-curated-short	MF580491	-	-	SouthAmerica1	-
+ncbi-curated-short	MF580492	-	-	SouthAmerica1	-
+ncbi-curated-short	MF987820	-	-	SouthAmerica1	-
+ncbi-curated-short	MG757496	-	-	-	-
+ncbi-curated-short	MG757497	-	-	-	-
+ncbi-curated-short	MG838679	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838680	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838681	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838682	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838683	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838684	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838685	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838686	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838687	-	-	SouthAmerica1	-
+ncbi-curated-short	MG838688	-	-	SouthAmerica1	-
+ncbi-curated-short	MH001693	-	-	SouthAmerica1	-
+ncbi-curated-short	MH001694	-	-	SouthAmerica1	-
+ncbi-curated-short	MH001695	-	-	SouthAmerica1	-
+ncbi-curated-short	MH015342	-	-	SouthAmerica1	-
+ncbi-curated-short	MH015343	-	-	SouthAmerica1	-
+ncbi-curated-short	MH015344	-	-	SouthAmerica1	-
+ncbi-curated-short	MK457702	-	-	WestAfrica	-
+ncbi-curated-short	MQ313559	-	-	-	-
+ncbi-curated-short	MQ313562	-	-	-	-
+ncbi-curated-short	MW508339	-	-	WestAfrica	-
+ncbi-curated-short	MW508340	-	-	WestAfrica	-
+ncbi-curated-short	MW508341	-	-	WestAfrica	-
+ncbi-curated-short	MW508342	-	-	WestAfrica	-
+ncbi-curated-short	MW508343	-	-	WestAfrica	-
+ncbi-curated-short	MW508344	-	-	WestAfrica	-
+ncbi-curated-short	OF120381	-	-	WestAfrica	-
+ncbi-curated-short	OF375887	-	-	WestAfrica	-
+ncbi-curated-short	OK572994	-	-	-	-
+ncbi-curated-short	OK572995	-	-	-	-
+ncbi-curated-short	OK572996	-	-	WestAfrica	-
+ncbi-curated-short	OK572997	-	-	WestAfrica	-
+ncbi-curated-short	OK572998	-	-	-	-
+ncbi-curated-short	ON502422	-	-	SouthAmerica1	-
+ncbi-curated-short	OP589291	-	-	SouthAmerica1	-
+ncbi-curated-short	U23565	-	-	SouthAmerica2	-
+ncbi-curated-short	U23566	-	-	SouthAmerica2	-
+ncbi-curated-short	U23567	-	-	WestAfrica	-
+ncbi-curated-short	U23568	-	-	WestAfrica	-
+ncbi-curated-short	U23569	-	-	-	-
+ncbi-curated-short	U23570	-	-	SouthAmerica1	-
+ncbi-curated-short	U23571	-	-	EastAfrica	-
+ncbi-curated-short	U23572	-	-	WestAfrica	-
+ncbi-curated-short	U23573	-	-	EastAfrica	-
+ncbi-curated-short	U23574	-	-	WestAfrica	-
+ncbi-curated-short	U23575	-	-	-	-
+ncbi-curated-short	U23576	-	-	EastAfrica	-
+ncbi-curated-short	U23577	-	-	EastAfrica	-
+ncbi-curated-short	U23578	-	-	EastAfrica	-
+ncbi-curated-short	U23579	-	-	SouthAmerica1	-
+ncbi-curated-short	U23580	-	-	SouthAmerica1	-
+ncbi-curated-short	U52389	-	-	SouthAmerica1	-
+ncbi-curated-short	U52391	-	-	SouthAmerica1	-
+ncbi-curated-short	U52392	-	-	EastAfrica	-
+ncbi-curated-short	U52394	-	-	EastAfrica	-
+ncbi-curated-short	U52395	-	-	EastAfrica	-
+ncbi-curated-short	U52397	-	-	-	-
+ncbi-curated-short	U52398	-	-	SouthAmerica1	-
+ncbi-curated-short	U52400	-	-	SouthAmerica1	-
+ncbi-curated-short	U52401	-	-	-	-
+ncbi-curated-short	U52402	-	-	-	-
+ncbi-curated-short	U52403	-	-	WestAfrica	-
+ncbi-curated-short	U52404	-	-	SouthAmerica1	-
+ncbi-curated-short	U52406	-	-	-	-
+ncbi-curated-short	U52408	-	-	-	-
+ncbi-curated-short	U52409	-	-	-	-
+ncbi-curated-short	U52410	-	-	SouthAmerica2	-
+ncbi-curated-short	U52412	-	-	-	-
+ncbi-curated-short	U52413	-	-	WestAfrica	-
+ncbi-curated-short	U52414	-	-	-	-
+ncbi-curated-short	U52415	-	-	WestAfrica	-
+ncbi-curated-short	U52416	-	-	SouthAmerica1	-
+ncbi-curated-short	U52418	-	-	SouthAmerica1	-
+ncbi-curated-short	U52419	-	-	SouthAmerica2	-
+ncbi-curated-short	U52421	-	-	-	-
+ncbi-curated-short	U52422	-	-	EastAfrica	-
+ncbi-curated-short	U52424	-	-	EastAfrica	-
+ncbi-curated-short	X02807	-	-	-	-
