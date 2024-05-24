@@ -82,42 +82,51 @@ The following command in the GLUE console calculates the amino acid frequencies 
 
 ```
 Mode path: /project/yfv
-GLUE> alignment AL_YFV amino-acid frequency -c -r REF_MASTER_YFV -f envelope -l 52 52
+GLUE> alignment AL_YFV_SouthAmerica1 amino-acid frequency -r REF_MASTER_YFV -f envelope -l 120 130
 ```
 
 This command produces results in a tabular output format like this:
 
 ```
-+==========+=======+===========+============+====================+
-| feature  | codon | aminoAcid | numMembers |     pctMembers     |
-+==========+=======+===========+============+====================+
-| envelope | 52    | E         | 4          | 1.3840830449826989 |
-| envelope | 52    | H         | 89         | 30.79584775086505  |
-| envelope | 52    | K         | 1          | 0.3460207612456747 |
-| envelope | 52    | Q         | 190        | 65.7439446366782   |
-| envelope | 52    | Y         | 5          | 1.7301038062283738 |
-+==========+=======+===========+============+====================+
++==========+=======+===========+============+=====================+
+| feature  | codon | aminoAcid | numMembers |     pctMembers      |
++==========+=======+===========+============+=====================+
+| envelope | 120   | A         | 3          | 0.29673590504451036 |
+| envelope | 120   | T         | 1008       | 99.70326409495549   |
+| envelope | 121   | C         | 1013       | 100.0               |
+| envelope | 122   | A         | 1012       | 99.90128331688055   |
+| envelope | 122   | H         | 1          | 0.09871668311944719 |
+| envelope | 123   | K         | 1014       | 99.80314960629921   |
+| envelope | 123   | R         | 2          | 0.1968503937007874  |
+| envelope | 124   | S         | 1022       | 100.0               |
+| envelope | 125   | M         | 1024       | 100.0               |
+| envelope | 126   | S         | 1028       | 100.0               |
+| envelope | 127   | L         | 1030       | 100.0               |
+| envelope | 128   | F         | 1028       | 100.0               |
+| envelope | 129   | E         | 1029       | 100.0               |
+| envelope | 130   | V         | 1030       | 100.0               |
++==========+=======+===========+============+=====================+
 ```
 
 ### Command Breakdown
 
-**`alignment AL_YFV`**
-Selects the main, reference sequence-constrained alignment for YFV.
+**`alignment AL_YFV_SouthAmerica1`**
+Selects the reference sequence-constrained alignment for the 'South America 1' genotype of YFV.
 
 **`amino-acid frequency`**
 Instructs GLUE to calculate amino acid frequencies within the selected alignment.
 
-**`-c`**
-Calculates the frequencies recursively, including all sub-alignments of YFV2. In YFV-GLUE, alignments are arranged hierarchically to reflect evolutionary relationships.
-
-**`-r REF_MASTER_YFV2`**
-Specifies the constraining reference sequence, `REF_MASTER_YFV2`, which defines the coordinate space and the wild type amino acid for comparison.
+**`-r REF_MASTER_YFV`**
+Specifies the constraining reference sequence, `REF_MASTER_YFV`, which defines the coordinate space and the wild type amino acid for comparison.
 
 **`-f envelope`**
 Indicates the coding feature within the reference sequence (envelope) where amino acid frequencies will be calculated.
 
-**`-l 52 52`**
-Specifies the location within the feature to be analyzed. Here, it focuses on a single amino acid position (52).
+**`-l 120 130`**
+Specifies the location within the feature to be analyzed. Here a range is specific (120-130).
+
+**`-a`**
+Tells GLUE to use all sequence members of the alignment.
 
 ### Interpretation of the Output
 
