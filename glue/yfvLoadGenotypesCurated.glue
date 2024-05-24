@@ -1,0 +1,7 @@
+delete module yfvSideDataImporter
+
+create module -f modules/yfvSideDataImporter.xml
+
+module yfvSideDataImporter
+  populate -f tabular/yfv-curated-genotypes.tsv
+  exit

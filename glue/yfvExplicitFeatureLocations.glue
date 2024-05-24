@@ -99,3 +99,66 @@
 
   exit 
 
+
+  reference REF_OR119828_Panama_2002
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10889
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 119 10354
+      exit
+
+  exit 
+
+
+  reference REF_JF912181_Brazil_1983
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10795
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 119 10354
+      exit
+
+  exit 
+
+
+  reference REF_AF094612_Trinidad_1979
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10760
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 119 10354
+      exit
+
+  exit 
+
+
+  reference REF_AY968064_Angola_1971
+
+    add feature-location whole_genome
+    feature-location whole_genome
+      add segment 1 10823
+      exit
+
+    add feature-location precursor_polyprotein
+    feature-location precursor_polyprotein
+      add segment 121 10359
+      exit
+
+  exit 
+
+
+
+

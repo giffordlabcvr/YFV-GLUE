@@ -14,6 +14,9 @@ project yfv
   # Populate refseq + outgroup metadata from GenBank XML
   module yfvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
 
+  # Import genotype data
+  run file glue/yfvLoadGenotypesCurated.glue
+
   # Run script to determine genotypes via GLUE's MCLA algorithm
   # Uncomment to recalculate genotypes
   #run script glue/yfvGenotypeCuratedSeqs.js
