@@ -29,7 +29,9 @@ Projects are loaded into the GLUE "engine," forming a relational database that r
 
 - **Rich Annotations**: Annotated reference sequences enable rigorous comparative genomic analysis related to conservation, adaptation, structural context, and genotype-to-phenotype associations.
 
-- **Automated Genotyping**: YFV-GLUE can perform automated genotyping of YFV sequences (including subgenomic sequences) via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9). 
+- **Automated Genotyping**: YFV-GLUE can perform automated genotyping of YFV sequences (including subgenomic sequences) via GLUE's [maximum likelihood clade assignment (MLCA) algorithm](https://doi.org/10.1186/s12859-018-2459-9).
+
+- **Exploratory and operational**: The GLUE framework allows sequence-based resources to be used for exploratory work in a research setting, as well as operational work in a public or animal health setting.
 
 
 ## Installation
