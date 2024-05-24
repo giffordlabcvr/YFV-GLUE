@@ -131,7 +131,7 @@ Tells GLUE to use all sequence members of the alignment.
 ### Interpretation of the Output
 
 - **feature**: The coding feature analyzed (in this case, envelope).
-- **codon**: The codon position within the feature (position 52).
+- **codon**: The codon position within the feature.
 - **aminoAcid**: The amino acid found at the specified codon position.
 - **numMembers**: The number of sequences in the alignment containing the specified amino acid at the given position.
 - **pctMembers**: The percentage of sequences in the alignment containing the specified amino acid at the given position.
