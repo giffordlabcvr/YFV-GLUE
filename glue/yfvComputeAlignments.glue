@@ -1,0 +1,8 @@
+delete module yfvCompoundAligner
+
+create module -f modules/yfvCompoundAligner.xml
+
+compute alignment AL_YFV_SouthAmerica1 yfvCompoundAligner
+compute alignment AL_YFV_SouthAmerica2 yfvCompoundAligner
+compute alignment AL_YFV_EastAfrica yfvCompoundAligner
+compute alignment AL_YFV_WestAfrica yfvCompoundAligner

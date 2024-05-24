@@ -1,0 +1,20 @@
+  ### Add curated sequences to constrained alignment tree
+
+  alignment AL_YFV_ROOT
+
+    set field displayName "Yellow Fever Virus (YFV)"
+    add member  -w "source.name like 'ncbi-curated%' and genotype != null"
+    exit  
+	
+
+  alignment AL_YFV_ROOT
+  
+	demote member AL_YFV_SouthAmerica1 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype = 'SouthAmerica1'"
+  
+	demote member AL_YFV_SouthAmerica2 --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype = 'SouthAmerica2'"
+  
+	demote member AL_YFV_EastAfrica --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype = 'EastAfrica'"
+
+	demote member AL_YFV_WestAfrica --whereClause "sequence.source.name like 'ncbi-curated%' and sequence.genotype = 'WestAfrica'"
+
+	exit
