@@ -1,6 +1,6 @@
 # YFV-GLUE: Phylogenomic Analysis of Yellow Fever Virus
 
-## Overview
+<img src="md/yfv-glue-logo.png" align="right" alt="" width="280" />
 
 YFV-GLUE is a sequence-oriented resource for comparative genomic analysis of yellow fever virus (YFV), developed using the [GLUE](https://github.com/giffordlabcvr/gluetools) software framework.
 
