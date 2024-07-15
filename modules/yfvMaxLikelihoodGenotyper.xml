@@ -1,5 +1,6 @@
 <maxLikelihoodGenotyper>
 	<maxLikelihoodPlacerModuleName>yfvMaxLikelihoodPlacer</maxLikelihoodPlacerModuleName>
+	<useSingleReference>true</useSingleReference>
 
 	<cladeCategory>
 		<name>genotype</name>	

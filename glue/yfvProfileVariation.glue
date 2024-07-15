@@ -1,0 +1,9 @@
+
+  # Run script to calculate aa replacements
+  run script glue/yfvGenerateReplacements.js
+
+  # Count the number of sequences in which variants occur
+  run script glue/yfvSetVariantNumSeqs.js
+
+  # Validate
+  validate

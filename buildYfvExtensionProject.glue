@@ -4,21 +4,23 @@ project yfv
 
   # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
   import source sources/ncbi-curated
+  import source sources/ncbi-curated-short
 
   # Link sequence table entries to isolate table
   run script glue/yfvLoadIsolateDataCurated.js 
+  run script glue/yfvLoadIsolateDataCuratedShort.js 
 
   # Populate refseq + outgroup metadata from GenBank XML
-  module yfvGenbankXmlPopulator populate -w "source.name = 'ncbi-curated'"
-
-  # Import genotype data
-  run file glue/yfvLoadGenotypesCurated.glue
+  module yfvGenbankXmlPopulator populate -w "source.name like 'ncbi-curated%'"
 
   # Run script to determine genotypes via GLUE's MCLA algorithm
   # Uncomment to recalculate genotypes
   #run script glue/yfvGenotypeCuratedSeqs.js
 
   # ...or import previously generated genotype data
+  run file glue/yfvLoadGenotypesCurated.glue
+
+  # Add sequences to alignment tree
   run file glue/yfvAlignmentTreeCurated.glue
 
   # Compute multiple sequence alignments with curated sequences included
