@@ -6,8 +6,14 @@ run file glue/yfvSchemaExtensions.glue
  
 project yfv
 
+  # Define project settings
   run file glue/yfvProjectSettings.glue
+  
+  # Module declarations
   run file glue/yfvModules.glue
+
+  # M49 countries
+  run file glue/m49_countries/populateM49All.glue
 
   # NCBI refseqs - taxa in the reference phylogeny, plus the  master reference
   import source sources/ncbi-refseqs

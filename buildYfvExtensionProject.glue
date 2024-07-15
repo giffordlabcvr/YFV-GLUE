@@ -2,9 +2,6 @@ project yfv
 
   delete source ncbi-curated
 
-  # Define extension modules
-  run file glue/yfvExtensionModules.glue
-
   # NCBI refseqs -- taxa in the reference phylogeny, plus the RefSeq master reference and a numbering reference
   import source sources/ncbi-curated
 
@@ -21,12 +18,11 @@ project yfv
   # Uncomment to recalculate genotypes
   #run script glue/yfvGenotypeCuratedSeqs.js
 
-  # Import genotype data
+  # ...or import previously generated genotype data
   run file glue/yfvAlignmentTreeCurated.glue
 
   # Compute multiple sequence alignments with curated sequences included
   run file glue/yfvComputeAlignments.glue
-
 
   # Validate
   validate
